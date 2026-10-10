@@ -63,9 +63,9 @@
       ],
       "status": {
         "source": "jundrov",
-        "checked": "2026-10-10T17:29:45+00:00",
+        "checked": "2026-10-10T17:40:37+00:00",
         "success": "2026-10-10T17:29:45+00:00",
-        "error": null
+        "error": "Remote end closed connection without response"
       }
     },
     {
@@ -9980,12 +9980,295 @@
             "threshold": 5,
             "tie": false
           }
+        },
+        {
+          "id": 53,
+          "captured": "2026-10-10T17:40:37+00:00",
+          "generated": "2026-10-10T19:40:01",
+          "description": "Výsledek za zastupitelstvo obce - průběžný stav",
+          "rounds": [
+            {
+              "round": 1,
+              "total": 353,
+              "counted": 114,
+              "percent": 32.29,
+              "turnout": 32.59,
+              "votes": 1748680,
+              "entries": [
+                {
+                  "id": "1",
+                  "name": "Sociální demokracie",
+                  "party": "",
+                  "votes": 14207,
+                  "share": 0.81
+                },
+                {
+                  "id": "2",
+                  "name": "Lidovci a Starostové – Brno blíž lidem",
+                  "party": "",
+                  "votes": 451488,
+                  "share": 25.82
+                },
+                {
+                  "id": "3",
+                  "name": "ZELENÉ BRNO (Zel.,ŽTB,SEN 21,LES,Volt,Bud.,Kruh)",
+                  "party": "",
+                  "votes": 155783,
+                  "share": 8.91
+                },
+                {
+                  "id": "4",
+                  "name": "ANO 2011",
+                  "party": "",
+                  "votes": 324669,
+                  "share": 18.57
+                },
+                {
+                  "id": "5",
+                  "name": "Za Lužánky",
+                  "party": "",
+                  "votes": 94571,
+                  "share": 5.41
+                },
+                {
+                  "id": "6",
+                  "name": "ODS, TOP 09 a nezávislí",
+                  "party": "",
+                  "votes": 312690,
+                  "share": 17.88
+                },
+                {
+                  "id": "7",
+                  "name": "Restart pro Brno",
+                  "party": "",
+                  "votes": 32588,
+                  "share": 1.86
+                },
+                {
+                  "id": "8",
+                  "name": "Brnoklidem",
+                  "party": "",
+                  "votes": 29971,
+                  "share": 1.71
+                },
+                {
+                  "id": "9",
+                  "name": "Motoristé sobě",
+                  "party": "",
+                  "votes": 51753,
+                  "share": 2.96
+                },
+                {
+                  "id": "10",
+                  "name": "Sdružení DSZ - ZA PRÁVA ZVÍŘAT, NK",
+                  "party": "",
+                  "votes": 475,
+                  "share": 0.03
+                },
+                {
+                  "id": "11",
+                  "name": "Brno Brňankám a Brňanům! (B3!)",
+                  "party": "",
+                  "votes": 6666,
+                  "share": 0.38
+                },
+                {
+                  "id": "12",
+                  "name": "PŘÍSAHA občanské hnutí",
+                  "party": "",
+                  "votes": 19710,
+                  "share": 1.13
+                },
+                {
+                  "id": "13",
+                  "name": "BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",
+                  "party": "",
+                  "votes": 21681,
+                  "share": 1.24
+                },
+                {
+                  "id": "14",
+                  "name": "Nové Brno",
+                  "party": "",
+                  "votes": 39717,
+                  "share": 2.27
+                },
+                {
+                  "id": "15",
+                  "name": "Piráti a Fakt Brno TU!",
+                  "party": "",
+                  "votes": 122300,
+                  "share": 6.99
+                },
+                {
+                  "id": "16",
+                  "name": "SPD a nezávislí",
+                  "party": "",
+                  "votes": 70411,
+                  "share": 4.03
+                }
+              ]
+            }
+          ],
+          "mandates": {
+            "total": 55,
+            "majority": 28,
+            "status": "provisional",
+            "parties": [
+              {
+                "id": "1",
+                "name": "Sociální demokracie",
+                "votes": 14207,
+                "candidates": 55,
+                "minimum": 0,
+                "maximum": 0,
+                "qualified": false
+              },
+              {
+                "id": "2",
+                "name": "Lidovci a Starostové – Brno blíž lidem",
+                "votes": 451488,
+                "candidates": 55,
+                "minimum": 18,
+                "maximum": 18,
+                "qualified": true
+              },
+              {
+                "id": "3",
+                "name": "ZELENÉ BRNO (Zel.,ŽTB,SEN 21,LES,Volt,Bud.,Kruh)",
+                "votes": 155783,
+                "candidates": 55,
+                "minimum": 6,
+                "maximum": 6,
+                "qualified": true
+              },
+              {
+                "id": "4",
+                "name": "ANO 2011",
+                "votes": 324669,
+                "candidates": 55,
+                "minimum": 12,
+                "maximum": 12,
+                "qualified": true
+              },
+              {
+                "id": "5",
+                "name": "Za Lužánky",
+                "votes": 94571,
+                "candidates": 55,
+                "minimum": 3,
+                "maximum": 3,
+                "qualified": true
+              },
+              {
+                "id": "6",
+                "name": "ODS, TOP 09 a nezávislí",
+                "votes": 312690,
+                "candidates": 55,
+                "minimum": 12,
+                "maximum": 12,
+                "qualified": true
+              },
+              {
+                "id": "7",
+                "name": "Restart pro Brno",
+                "votes": 32588,
+                "candidates": 55,
+                "minimum": 0,
+                "maximum": 0,
+                "qualified": false
+              },
+              {
+                "id": "8",
+                "name": "Brnoklidem",
+                "votes": 29971,
+                "candidates": 55,
+                "minimum": 0,
+                "maximum": 0,
+                "qualified": false
+              },
+              {
+                "id": "9",
+                "name": "Motoristé sobě",
+                "votes": 51753,
+                "candidates": 55,
+                "minimum": 0,
+                "maximum": 0,
+                "qualified": false
+              },
+              {
+                "id": "10",
+                "name": "Sdružení DSZ - ZA PRÁVA ZVÍŘAT, NK",
+                "votes": 475,
+                "candidates": 3,
+                "minimum": 0,
+                "maximum": 0,
+                "qualified": false
+              },
+              {
+                "id": "11",
+                "name": "Brno Brňankám a Brňanům! (B3!)",
+                "votes": 6666,
+                "candidates": 55,
+                "minimum": 0,
+                "maximum": 0,
+                "qualified": false
+              },
+              {
+                "id": "12",
+                "name": "PŘÍSAHA občanské hnutí",
+                "votes": 19710,
+                "candidates": 55,
+                "minimum": 0,
+                "maximum": 0,
+                "qualified": false
+              },
+              {
+                "id": "13",
+                "name": "BRNO NAPLNO - koalice Svobodní, Trikolora, PRO",
+                "votes": 21681,
+                "candidates": 55,
+                "minimum": 0,
+                "maximum": 0,
+                "qualified": false
+              },
+              {
+                "id": "14",
+                "name": "Nové Brno",
+                "votes": 39717,
+                "candidates": 55,
+                "minimum": 0,
+                "maximum": 0,
+                "qualified": false
+              },
+              {
+                "id": "15",
+                "name": "Piráti a Fakt Brno TU!",
+                "votes": 122300,
+                "candidates": 55,
+                "minimum": 4,
+                "maximum": 4,
+                "qualified": true
+              },
+              {
+                "id": "16",
+                "name": "SPD a nezávislí",
+                "votes": 70411,
+                "candidates": 55,
+                "minimum": 0,
+                "maximum": 0,
+                "qualified": false
+              }
+            ],
+            "threshold": 5,
+            "tie": false
+          }
         }
       ],
       "status": {
         "source": "brno",
-        "checked": "2026-10-10T17:29:52+00:00",
-        "success": "2026-10-10T17:29:52+00:00",
+        "checked": "2026-10-10T17:40:37+00:00",
+        "success": "2026-10-10T17:40:37+00:00",
         "error": null
       }
     },
@@ -10836,18 +11119,78 @@
               ]
             }
           ]
+        },
+        {
+          "id": 52,
+          "captured": "2026-10-10T17:40:37+00:00",
+          "generated": "2026-10-10T19:39:00",
+          "description": "Výsledek za senátní obvod",
+          "rounds": [
+            {
+              "round": 1,
+              "total": 123,
+              "counted": 27,
+              "percent": 21.95,
+              "turnout": 42.59,
+              "votes": 7610,
+              "entries": [
+                {
+                  "id": "1",
+                  "name": "Papoušek Zdeněk PhDr.",
+                  "party": "KDUODSPirTOPFBr",
+                  "votes": 3052,
+                  "share": 40.1
+                },
+                {
+                  "id": "2",
+                  "name": "Samková Klára Alžběta JUDr. Ph.D.",
+                  "party": "Stačilo!",
+                  "votes": 282,
+                  "share": 3.7
+                },
+                {
+                  "id": "3",
+                  "name": "Holcnerová Veronika",
+                  "party": "Kruh",
+                  "votes": 366,
+                  "share": 4.8
+                },
+                {
+                  "id": "4",
+                  "name": "Štěrba Jaroslav prof. MUDr. Ph.D.",
+                  "party": "ANO",
+                  "votes": 1604,
+                  "share": 21.07
+                },
+                {
+                  "id": "5",
+                  "name": "Zitterbart Karel MUDr. Ph.D.",
+                  "party": "STAN",
+                  "votes": 1817,
+                  "share": 23.87
+                },
+                {
+                  "id": "6",
+                  "name": "Turánek Jaroslav prof. RNDr. CSc., DSc.",
+                  "party": "SPD",
+                  "votes": 489,
+                  "share": 6.42
+                }
+              ]
+            }
+          ]
         }
       ],
       "status": {
         "source": "senate",
-        "checked": "2026-10-10T17:30:09+00:00",
-        "success": "2026-10-10T17:28:44+00:00",
-        "error": "The read operation timed out"
+        "checked": "2026-10-10T17:40:37+00:00",
+        "success": "2026-10-10T17:40:37+00:00",
+        "error": null
       }
     }
   ],
   "interval": 300,
   "nextPoll": null,
-  "serverTime": "2026-10-10T17:30:32+00:00",
-  "publishedAt": "2026-10-10T17:30:32+00:00"
+  "serverTime": "2026-10-10T17:40:37+00:00",
+  "publishedAt": "2026-10-10T17:40:37+00:00"
 }
