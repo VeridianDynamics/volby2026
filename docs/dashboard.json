@@ -63,9 +63,9 @@
       ],
       "status": {
         "source": "jundrov",
-        "checked": "2026-10-10T17:40:37+00:00",
-        "success": "2026-10-10T17:29:45+00:00",
-        "error": "Remote end closed connection without response"
+        "checked": "2026-10-10T17:41:40+00:00",
+        "success": "2026-10-10T17:41:40+00:00",
+        "error": null
       }
     },
     {
@@ -10267,8 +10267,8 @@
       ],
       "status": {
         "source": "brno",
-        "checked": "2026-10-10T17:40:37+00:00",
-        "success": "2026-10-10T17:40:37+00:00",
+        "checked": "2026-10-10T17:41:38+00:00",
+        "success": "2026-10-10T17:41:38+00:00",
         "error": null
       }
     },
@@ -11179,18 +11179,78 @@
               ]
             }
           ]
+        },
+        {
+          "id": 54,
+          "captured": "2026-10-10T17:41:37+00:00",
+          "generated": "2026-10-10T19:41:00",
+          "description": "Výsledek za senátní obvod",
+          "rounds": [
+            {
+              "round": 1,
+              "total": 123,
+              "counted": 28,
+              "percent": 22.76,
+              "turnout": 43.19,
+              "votes": 7899,
+              "entries": [
+                {
+                  "id": "1",
+                  "name": "Papoušek Zdeněk PhDr.",
+                  "party": "KDUODSPirTOPFBr",
+                  "votes": 3150,
+                  "share": 39.87
+                },
+                {
+                  "id": "2",
+                  "name": "Samková Klára Alžběta JUDr. Ph.D.",
+                  "party": "Stačilo!",
+                  "votes": 295,
+                  "share": 3.73
+                },
+                {
+                  "id": "3",
+                  "name": "Holcnerová Veronika",
+                  "party": "Kruh",
+                  "votes": 370,
+                  "share": 4.68
+                },
+                {
+                  "id": "4",
+                  "name": "Štěrba Jaroslav prof. MUDr. Ph.D.",
+                  "party": "ANO",
+                  "votes": 1678,
+                  "share": 21.24
+                },
+                {
+                  "id": "5",
+                  "name": "Zitterbart Karel MUDr. Ph.D.",
+                  "party": "STAN",
+                  "votes": 1886,
+                  "share": 23.87
+                },
+                {
+                  "id": "6",
+                  "name": "Turánek Jaroslav prof. RNDr. CSc., DSc.",
+                  "party": "SPD",
+                  "votes": 520,
+                  "share": 6.58
+                }
+              ]
+            }
+          ]
         }
       ],
       "status": {
         "source": "senate",
-        "checked": "2026-10-10T17:40:37+00:00",
-        "success": "2026-10-10T17:40:37+00:00",
+        "checked": "2026-10-10T17:41:37+00:00",
+        "success": "2026-10-10T17:41:37+00:00",
         "error": null
       }
     }
   ],
   "interval": 300,
   "nextPoll": null,
-  "serverTime": "2026-10-10T17:40:37+00:00",
-  "publishedAt": "2026-10-10T17:40:37+00:00"
+  "serverTime": "2026-10-10T17:41:40+00:00",
+  "publishedAt": "2026-10-10T17:41:40+00:00"
 }
