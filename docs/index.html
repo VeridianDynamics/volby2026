@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="published-dashboard" content="true">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Election watch · Brno 2026</title>
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <main>
+    <div class="compact-toolbar"><div id="overview" aria-label="Precincts counted"></div><label>History <select id="range"><option value="0">All</option><option value="1">1 hour</option><option value="3">3 hours</option><option value="6">6 hours</option></select></label><span id="connection" role="status">Connecting…</span></div>
+    <div id="error" role="alert" hidden></div>
+    <section class="workspace">
+      <div id="detail"></div>
+    </section>
+    <footer><span>Source: <a href="https://volby.gov.cz" target="_blank" rel="noreferrer">ČSÚ / volby.gov.cz ↗</a> · Saved on GitHub automatically · Europe/Prague time</span><span id="countdown"></span></footer>
+  </main>
+</body>
+</html>

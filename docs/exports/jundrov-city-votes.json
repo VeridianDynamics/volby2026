@@ -1,0 +1,5934 @@
+[
+  {
+    "captured": "2026-10-10T16:32:18+00:00",
+    "data": {
+      "dz": 3,
+      "existujePdf": false,
+      "generovano": "2026-10-08T16:40:41",
+      "hlasy": {
+        "1": [
+          [
+            1,
+            "Slavík Zdeněk Mgr.",
+            54,
+            0,
+            0
+          ],
+          [
+            2,
+            "Podal Miloslav",
+            61,
+            0,
+            0
+          ],
+          [
+            3,
+            "Polák Jiří",
+            47,
+            0,
+            0
+          ],
+          [
+            4,
+            "Ferina Hana Bc.",
+            38,
+            0,
+            0
+          ],
+          [
+            5,
+            "Daniel Jozef",
+            55,
+            0,
+            0
+          ],
+          [
+            6,
+            "Vašíčková Andrea Bc. DiS.",
+            38,
+            0,
+            0
+          ],
+          [
+            7,
+            "Foltýn Jan Mgr. MBA",
+            61,
+            0,
+            0
+          ],
+          [
+            8,
+            "Mach Josef Mgr.",
+            55,
+            0,
+            0
+          ],
+          [
+            9,
+            "Krátký Michal Mgr. Bc.",
+            47,
+            0,
+            0
+          ],
+          [
+            10,
+            "Zahradník Stanislav",
+            53,
+            0,
+            0
+          ],
+          [
+            11,
+            "Neumann Karel",
+            58,
+            0,
+            0
+          ],
+          [
+            12,
+            "Riziky Ivan",
+            59,
+            0,
+            0
+          ],
+          [
+            13,
+            "Franc Kamil Ing.",
+            55,
+            0,
+            0
+          ],
+          [
+            14,
+            "Zonyga Jiří Bc.",
+            52,
+            0,
+            0
+          ],
+          [
+            15,
+            "Urbánek Radim Mgr. Bc.",
+            48,
+            0,
+            0
+          ],
+          [
+            16,
+            "Pařízek Radomil",
+            61,
+            0,
+            0
+          ],
+          [
+            17,
+            "Kuklová Petra",
+            51,
+            0,
+            0
+          ],
+          [
+            18,
+            "Závadský Vlastimil Ing.",
+            67,
+            0,
+            0
+          ],
+          [
+            19,
+            "Podalová Karolína",
+            21,
+            0,
+            0
+          ],
+          [
+            20,
+            "Horáček Milan",
+            55,
+            0,
+            0
+          ],
+          [
+            21,
+            "Kolář Jakub",
+            35,
+            0,
+            0
+          ],
+          [
+            22,
+            "Jöbstl Jana",
+            68,
+            0,
+            0
+          ],
+          [
+            23,
+            "Mottl Tomáš",
+            45,
+            0,
+            0
+          ],
+          [
+            24,
+            "Čechová Anna",
+            64,
+            0,
+            0
+          ],
+          [
+            25,
+            "Pospíšil Radek",
+            53,
+            0,
+            0
+          ],
+          [
+            26,
+            "Božek Václav Mgr. CSc.",
+            77,
+            0,
+            0
+          ],
+          [
+            27,
+            "Špenik Lukáš",
+            37,
+            0,
+            0
+          ],
+          [
+            28,
+            "Kupčíková Petra",
+            53,
+            0,
+            0
+          ],
+          [
+            29,
+            "Murdych Marek",
+            33,
+            0,
+            0
+          ],
+          [
+            30,
+            "Bauer Tomáš",
+            50,
+            0,
+            0
+          ],
+          [
+            31,
+            "Bučková Silvie",
+            38,
+            0,
+            0
+          ],
+          [
+            32,
+            "Nový Michal",
+            58,
+            0,
+            0
+          ],
+          [
+            33,
+            "Rossi Jan",
+            46,
+            0,
+            0
+          ],
+          [
+            34,
+            "Hanák David",
+            52,
+            0,
+            0
+          ],
+          [
+            35,
+            "Poláček Martin",
+            50,
+            0,
+            0
+          ],
+          [
+            36,
+            "Klapal David",
+            45,
+            0,
+            0
+          ],
+          [
+            37,
+            "Vohrabalová Lucie",
+            44,
+            0,
+            0
+          ],
+          [
+            38,
+            "Murdychová Martina",
+            59,
+            0,
+            0
+          ],
+          [
+            39,
+            "Slavíková Jana",
+            58,
+            0,
+            0
+          ],
+          [
+            40,
+            "Jursa Jan",
+            59,
+            0,
+            0
+          ],
+          [
+            41,
+            "Crlík Jaroslav Ing.",
+            65,
+            0,
+            0
+          ],
+          [
+            42,
+            "Pačinková Hana",
+            59,
+            0,
+            0
+          ],
+          [
+            43,
+            "Mareš Vít",
+            21,
+            0,
+            0
+          ],
+          [
+            44,
+            "Havlíček Miroslav",
+            52,
+            0,
+            0
+          ],
+          [
+            45,
+            "Kubišta Rostislav",
+            57,
+            0,
+            0
+          ],
+          [
+            46,
+            "Prachařová Marie",
+            60,
+            0,
+            0
+          ],
+          [
+            47,
+            "Mikulášek Jan",
+            79,
+            0,
+            0
+          ],
+          [
+            48,
+            "Koš Pavel",
+            41,
+            0,
+            0
+          ],
+          [
+            49,
+            "Kračmer Miroslav",
+            58,
+            0,
+            0
+          ],
+          [
+            50,
+            "Ferina Lukáš Bc.",
+            39,
+            0,
+            0
+          ],
+          [
+            51,
+            "Kočařová Miroslava",
+            71,
+            0,
+            0
+          ],
+          [
+            52,
+            "Hamplová Jana Bc.",
+            67,
+            0,
+            0
+          ],
+          [
+            53,
+            "Hamrová Jana",
+            50,
+            0,
+            0
+          ],
+          [
+            54,
+            "Pollák David",
+            48,
+            0,
+            0
+          ],
+          [
+            55,
+            "Smolík Zdeněk",
+            69,
+            0,
+            0
+          ]
+        ],
+        "10": [
+          [
+            1,
+            "Galová Ivona",
+            64,
+            0,
+            0
+          ],
+          [
+            2,
+            "Müllerová Pavla",
+            51,
+            0,
+            0
+          ],
+          [
+            3,
+            "Doleželová Martina",
+            45,
+            0,
+            0
+          ]
+        ],
+        "11": [
+          [
+            1,
+            "Bóna Matúš Mgr.",
+            56,
+            0,
+            0
+          ],
+          [
+            2,
+            "Buchtová Jana",
+            38,
+            0,
+            0
+          ],
+          [
+            3,
+            "Lučanský Rastislav",
+            55,
+            0,
+            0
+          ],
+          [
+            4,
+            "Ulrich Tomáš Mgr. Ph.D.",
+            49,
+            0,
+            0
+          ],
+          [
+            5,
+            "Brychnač Štefan",
+            45,
+            0,
+            0
+          ],
+          [
+            6,
+            "Líčeníková Eulalie",
+            41,
+            0,
+            0
+          ],
+          [
+            7,
+            "Jonáš Elemír",
+            54,
+            0,
+            0
+          ],
+          [
+            8,
+            "Fejfárek Martin",
+            53,
+            0,
+            0
+          ],
+          [
+            9,
+            "Hoffman Daniela Mgr.",
+            37,
+            0,
+            0
+          ],
+          [
+            10,
+            "Musil Michal",
+            50,
+            0,
+            0
+          ],
+          [
+            11,
+            "Binarová Tereza",
+            40,
+            0,
+            0
+          ],
+          [
+            12,
+            "Schauer Jiří RNDr.",
+            65,
+            0,
+            0
+          ],
+          [
+            13,
+            "Galle Darek",
+            55,
+            0,
+            0
+          ],
+          [
+            14,
+            "Jonášová Lenka",
+            40,
+            0,
+            0
+          ],
+          [
+            15,
+            "Říháček Petr",
+            44,
+            0,
+            0
+          ],
+          [
+            16,
+            "Minksová Milena Mgr.",
+            38,
+            0,
+            0
+          ],
+          [
+            17,
+            "Sehnal Richard",
+            63,
+            0,
+            0
+          ],
+          [
+            18,
+            "Franta Zdeněk",
+            54,
+            0,
+            0
+          ],
+          [
+            19,
+            "Pardon Jiří",
+            35,
+            0,
+            0
+          ],
+          [
+            20,
+            "Musilová Helena",
+            69,
+            0,
+            0
+          ],
+          [
+            21,
+            "Fuksa Radim",
+            38,
+            0,
+            0
+          ],
+          [
+            22,
+            "Podroužková Renata",
+            61,
+            0,
+            0
+          ],
+          [
+            23,
+            "Mucha Zdeněk",
+            42,
+            0,
+            0
+          ],
+          [
+            24,
+            "Tománková Kateřina",
+            37,
+            0,
+            0
+          ],
+          [
+            25,
+            "Smolka Tomáš",
+            50,
+            0,
+            0
+          ],
+          [
+            26,
+            "Černoušková Veronika",
+            40,
+            0,
+            0
+          ],
+          [
+            27,
+            "Parči Antonio",
+            26,
+            0,
+            0
+          ],
+          [
+            28,
+            "Ličková Renáta",
+            57,
+            0,
+            0
+          ],
+          [
+            29,
+            "Vlasák Pavel",
+            42,
+            0,
+            0
+          ],
+          [
+            30,
+            "Miková Kateřina",
+            29,
+            0,
+            0
+          ],
+          [
+            31,
+            "Kroka Vojtěch",
+            37,
+            0,
+            0
+          ],
+          [
+            32,
+            "Rybářová Jindra",
+            79,
+            0,
+            0
+          ],
+          [
+            33,
+            "Kučera Daniel",
+            37,
+            0,
+            0
+          ],
+          [
+            34,
+            "Pouzová Věra",
+            73,
+            0,
+            0
+          ],
+          [
+            35,
+            "Konečný Filip",
+            19,
+            0,
+            0
+          ],
+          [
+            36,
+            "Škaroupková Olga",
+            48,
+            0,
+            0
+          ],
+          [
+            37,
+            "Wittreich Jan",
+            58,
+            0,
+            0
+          ],
+          [
+            38,
+            "Ryšavý Vlastimil",
+            65,
+            0,
+            0
+          ],
+          [
+            39,
+            "Kutek Dalibor",
+            60,
+            0,
+            0
+          ],
+          [
+            40,
+            "Kubát Milan",
+            73,
+            0,
+            0
+          ],
+          [
+            41,
+            "Simon Vladimír",
+            75,
+            0,
+            0
+          ],
+          [
+            42,
+            "Kopkan Patrik",
+            27,
+            0,
+            0
+          ],
+          [
+            43,
+            "Snášelová Kamila",
+            61,
+            0,
+            0
+          ],
+          [
+            44,
+            "Bendová Monika",
+            53,
+            0,
+            0
+          ],
+          [
+            45,
+            "Havel Josef",
+            44,
+            0,
+            0
+          ],
+          [
+            46,
+            "Kopl Karel",
+            69,
+            0,
+            0
+          ],
+          [
+            47,
+            "Svoboda Daniel",
+            30,
+            0,
+            0
+          ],
+          [
+            48,
+            "Šenk Jaroslav",
+            44,
+            0,
+            0
+          ],
+          [
+            49,
+            "Huječek Martin",
+            41,
+            0,
+            0
+          ],
+          [
+            50,
+            "Hlaváček Petr",
+            50,
+            0,
+            0
+          ],
+          [
+            51,
+            "Chylík Petr",
+            55,
+            0,
+            0
+          ],
+          [
+            52,
+            "Kuba Jiří",
+            60,
+            0,
+            0
+          ],
+          [
+            53,
+            "Macháček Miloslav",
+            55,
+            0,
+            0
+          ],
+          [
+            54,
+            "Banda Jiří",
+            60,
+            0,
+            0
+          ],
+          [
+            55,
+            "Prokipčák Vasil",
+            47,
+            0,
+            0
+          ]
+        ],
+        "12": [
+          [
+            1,
+            "Vokřál Petr Ing.",
+            62,
+            0,
+            0
+          ],
+          [
+            2,
+            "Peková Ivana Bc.",
+            53,
+            0,
+            0
+          ],
+          [
+            3,
+            "Němec Leoš Mgr.",
+            54,
+            0,
+            0
+          ],
+          [
+            4,
+            "Dvořáková Ivana",
+            38,
+            0,
+            0
+          ],
+          [
+            5,
+            "Zuziak Jindřich Ing.",
+            60,
+            0,
+            0
+          ],
+          [
+            6,
+            "Hovorka Martin MVDr. Ph.D.",
+            72,
+            0,
+            0
+          ],
+          [
+            7,
+            "Sedláček Radek",
+            24,
+            0,
+            0
+          ],
+          [
+            8,
+            "Cyprianová Ivana",
+            50,
+            0,
+            0
+          ],
+          [
+            9,
+            "Truksa David",
+            30,
+            0,
+            0
+          ],
+          [
+            10,
+            "Čajánková Šárka",
+            59,
+            0,
+            0
+          ],
+          [
+            11,
+            "Eckelt Petr",
+            59,
+            0,
+            0
+          ],
+          [
+            12,
+            "Brudík Pavel",
+            31,
+            0,
+            0
+          ],
+          [
+            13,
+            "Pek Milan",
+            65,
+            0,
+            0
+          ],
+          [
+            14,
+            "Petřík Jan Bc.",
+            35,
+            0,
+            0
+          ],
+          [
+            15,
+            "Výpustková Nikola Bc.",
+            33,
+            0,
+            0
+          ],
+          [
+            16,
+            "Lankov Roman Atanasov",
+            57,
+            0,
+            0
+          ],
+          [
+            17,
+            "Prášek Jan",
+            66,
+            0,
+            0
+          ],
+          [
+            18,
+            "Fišerová Iveta Bc.",
+            62,
+            0,
+            0
+          ],
+          [
+            19,
+            "Přichystalová Zita Ing.",
+            62,
+            0,
+            0
+          ],
+          [
+            20,
+            "Špetlík Petr",
+            47,
+            0,
+            0
+          ],
+          [
+            21,
+            "Adámek Jiří Ing.",
+            65,
+            0,
+            0
+          ],
+          [
+            22,
+            "Mičudová Markéta",
+            54,
+            0,
+            0
+          ],
+          [
+            23,
+            "Živná Hana",
+            45,
+            0,
+            0
+          ],
+          [
+            24,
+            "Fišer Vít",
+            32,
+            0,
+            0
+          ],
+          [
+            25,
+            "Hovorka Tomáš",
+            39,
+            0,
+            0
+          ],
+          [
+            26,
+            "Nováčková Hana",
+            42,
+            0,
+            0
+          ],
+          [
+            27,
+            "Petříková Jarmila",
+            61,
+            0,
+            0
+          ],
+          [
+            28,
+            "Babáková Martina",
+            53,
+            0,
+            0
+          ],
+          [
+            29,
+            "Truksová Ladislava",
+            51,
+            0,
+            0
+          ],
+          [
+            30,
+            "Berger Alexander",
+            48,
+            0,
+            0
+          ],
+          [
+            31,
+            "Výpustek Jiří",
+            41,
+            0,
+            0
+          ],
+          [
+            32,
+            "Marečková Kateřina",
+            50,
+            0,
+            0
+          ],
+          [
+            33,
+            "Sedláčková Michaela",
+            56,
+            0,
+            0
+          ],
+          [
+            34,
+            "Cvrčková Gabriela MUDr.",
+            29,
+            0,
+            0
+          ],
+          [
+            35,
+            "Střeštíková Denisa",
+            52,
+            0,
+            0
+          ],
+          [
+            36,
+            "Hrdličková Zuzana",
+            44,
+            0,
+            0
+          ],
+          [
+            37,
+            "Karel Michal  DiS.",
+            27,
+            0,
+            0
+          ],
+          [
+            38,
+            "Klíma Pavel",
+            69,
+            0,
+            0
+          ],
+          [
+            39,
+            "Hadová Jana Bc.",
+            64,
+            0,
+            0
+          ],
+          [
+            40,
+            "Petřík Stanislav",
+            66,
+            0,
+            0
+          ],
+          [
+            41,
+            "Člaňková Kristýna",
+            31,
+            0,
+            0
+          ],
+          [
+            42,
+            "Šidliáková Lenka",
+            52,
+            0,
+            0
+          ],
+          [
+            43,
+            "Zelinka Richard",
+            59,
+            0,
+            0
+          ],
+          [
+            44,
+            "Janoušková Zuzana",
+            24,
+            0,
+            0
+          ],
+          [
+            45,
+            "Adámková Ivana",
+            65,
+            0,
+            0
+          ],
+          [
+            46,
+            "Kudrnová Simona",
+            52,
+            0,
+            0
+          ],
+          [
+            47,
+            "Hrdličková Marie",
+            72,
+            0,
+            0
+          ],
+          [
+            48,
+            "Pichlerová Slávka",
+            83,
+            0,
+            0
+          ],
+          [
+            49,
+            "Jirásková Anna",
+            81,
+            0,
+            0
+          ],
+          [
+            50,
+            "Adámek Jiří",
+            21,
+            0,
+            0
+          ],
+          [
+            51,
+            "Dvořáková Zuzana",
+            61,
+            0,
+            0
+          ],
+          [
+            52,
+            "Zelinková Martina",
+            34,
+            0,
+            0
+          ],
+          [
+            53,
+            "Adámková Jana",
+            21,
+            0,
+            0
+          ],
+          [
+            54,
+            "Srncová Alena",
+            52,
+            0,
+            0
+          ],
+          [
+            55,
+            "Střeštíková Jiřina",
+            73,
+            0,
+            0
+          ]
+        ],
+        "13": [
+          [
+            1,
+            "Liptáková Klára Ing.",
+            56,
+            0,
+            0
+          ],
+          [
+            2,
+            "Klein Jiří Ing.",
+            64,
+            0,
+            0
+          ],
+          [
+            3,
+            "Jirků Milan",
+            43,
+            0,
+            0
+          ],
+          [
+            4,
+            "Jurásek Ondřej",
+            53,
+            0,
+            0
+          ],
+          [
+            5,
+            "Doležel Petr Mgr.",
+            52,
+            0,
+            0
+          ],
+          [
+            6,
+            "Dovrtěl Michal Ing.",
+            65,
+            0,
+            0
+          ],
+          [
+            7,
+            "Vrážel Miloš Ing.",
+            66,
+            0,
+            0
+          ],
+          [
+            8,
+            "Zejdová Hana",
+            64,
+            0,
+            0
+          ],
+          [
+            9,
+            "Hauserová Jaroslava",
+            70,
+            0,
+            0
+          ],
+          [
+            10,
+            "Otevřel Marek Mgr. Ph.D.",
+            50,
+            0,
+            0
+          ],
+          [
+            11,
+            "Pavlica Antonín",
+            43,
+            0,
+            0
+          ],
+          [
+            12,
+            "Střeštík Miroslav",
+            55,
+            0,
+            0
+          ],
+          [
+            13,
+            "Přichystal Jiří",
+            56,
+            0,
+            0
+          ],
+          [
+            14,
+            "Válka Josef",
+            59,
+            0,
+            0
+          ],
+          [
+            15,
+            "Bobek Radomír Mgr.",
+            46,
+            0,
+            0
+          ],
+          [
+            16,
+            "Matoušek Jan",
+            47,
+            0,
+            0
+          ],
+          [
+            17,
+            "Loukotová Zuzana",
+            61,
+            0,
+            0
+          ],
+          [
+            18,
+            "Frank Jáchym Mgr. Ing.",
+            62,
+            0,
+            0
+          ],
+          [
+            19,
+            "Doležel Alexander Jan",
+            22,
+            0,
+            0
+          ],
+          [
+            20,
+            "Stejkora Jiří Mgr.",
+            63,
+            0,
+            0
+          ],
+          [
+            21,
+            "Jůzová Lenka Ing.",
+            59,
+            0,
+            0
+          ],
+          [
+            22,
+            "Hejnová Pavla JUDr.",
+            63,
+            0,
+            0
+          ],
+          [
+            23,
+            "Najbrt Jan",
+            69,
+            0,
+            0
+          ],
+          [
+            24,
+            "Otevřelová Naděžda Mgr.",
+            77,
+            0,
+            0
+          ],
+          [
+            25,
+            "Ondrák Miroslav",
+            53,
+            0,
+            0
+          ],
+          [
+            26,
+            "Gregůrek Kamil",
+            38,
+            0,
+            0
+          ],
+          [
+            27,
+            "Antonínová Veronika",
+            57,
+            0,
+            0
+          ],
+          [
+            28,
+            "Hermannová Zdeňka",
+            64,
+            0,
+            0
+          ],
+          [
+            29,
+            "Čermák Daniel",
+            33,
+            0,
+            0
+          ],
+          [
+            30,
+            "Brančík Jiří",
+            47,
+            0,
+            0
+          ],
+          [
+            31,
+            "Marečková Irena",
+            57,
+            0,
+            0
+          ],
+          [
+            32,
+            "Blahoudek Pavel",
+            56,
+            0,
+            0
+          ],
+          [
+            33,
+            "Kocmanová Radoslava",
+            56,
+            0,
+            0
+          ],
+          [
+            34,
+            "Čevelová Monika",
+            34,
+            0,
+            0
+          ],
+          [
+            35,
+            "Zdráhal Martin",
+            53,
+            0,
+            0
+          ],
+          [
+            36,
+            "Doleželová Olga",
+            81,
+            0,
+            0
+          ],
+          [
+            37,
+            "Zigalová Dáša Bc.",
+            66,
+            0,
+            0
+          ],
+          [
+            38,
+            "Gregůrková Marie Ing.",
+            64,
+            0,
+            0
+          ],
+          [
+            39,
+            "John Žurman Barbara Mgr.",
+            43,
+            0,
+            0
+          ],
+          [
+            40,
+            "Kleinová Lenka",
+            58,
+            0,
+            0
+          ],
+          [
+            41,
+            "Šímová Etela",
+            62,
+            0,
+            0
+          ],
+          [
+            42,
+            "Musil Mirko",
+            43,
+            0,
+            0
+          ],
+          [
+            43,
+            "Kuchař Martin",
+            56,
+            0,
+            0
+          ],
+          [
+            44,
+            "Heinigová Darja",
+            62,
+            0,
+            0
+          ],
+          [
+            45,
+            "Poláček Petr",
+            63,
+            0,
+            0
+          ],
+          [
+            46,
+            "Doleželová Kristýna",
+            30,
+            0,
+            0
+          ],
+          [
+            47,
+            "Lopour Vít",
+            32,
+            0,
+            0
+          ],
+          [
+            48,
+            "Sedláček Pavel",
+            58,
+            0,
+            0
+          ],
+          [
+            49,
+            "Brandstätterová Marcela",
+            54,
+            0,
+            0
+          ],
+          [
+            50,
+            "Chlup Martin",
+            49,
+            0,
+            0
+          ],
+          [
+            51,
+            "Zatočilová Yvetta",
+            44,
+            0,
+            0
+          ],
+          [
+            52,
+            "Juříčková Jarmila",
+            41,
+            0,
+            0
+          ],
+          [
+            53,
+            "Magulová Helena",
+            50,
+            0,
+            0
+          ],
+          [
+            54,
+            "Kotrba Lubomír",
+            63,
+            0,
+            0
+          ],
+          [
+            55,
+            "Pospíchal Lubor Ing.",
+            46,
+            0,
+            0
+          ]
+        ],
+        "14": [
+          [
+            1,
+            "Sedláček Michal prof. Ing. arch.",
+            63,
+            0,
+            0
+          ],
+          [
+            2,
+            "Peringerová Markéta Mgr.",
+            39,
+            0,
+            0
+          ],
+          [
+            3,
+            "Šulc Milan Ing. Mgr.",
+            39,
+            0,
+            0
+          ],
+          [
+            4,
+            "Boucnik Pavel Ing. Ph.D.",
+            53,
+            0,
+            0
+          ],
+          [
+            5,
+            "Šálková Barbora Mgr.",
+            26,
+            0,
+            0
+          ],
+          [
+            6,
+            "Šulc Michal Mgr. et  Mgr. Ing.",
+            39,
+            0,
+            0
+          ],
+          [
+            7,
+            "Pitharasová Kristýna",
+            33,
+            0,
+            0
+          ],
+          [
+            8,
+            "Holeček Petr Mgr.",
+            69,
+            0,
+            0
+          ],
+          [
+            9,
+            "Sitarová Julie Ing.",
+            31,
+            0,
+            0
+          ],
+          [
+            10,
+            "Mičan Jan MUDr. Ph.D.",
+            30,
+            0,
+            0
+          ],
+          [
+            11,
+            "Vlček Petr MUDr. Ph.D.",
+            64,
+            0,
+            0
+          ],
+          [
+            12,
+            "Philippi Hana Ing.",
+            49,
+            0,
+            0
+          ],
+          [
+            13,
+            "Fajt František Ing.",
+            42,
+            0,
+            0
+          ],
+          [
+            14,
+            "Tlamka Jiří",
+            40,
+            0,
+            0
+          ],
+          [
+            15,
+            "Hanák Filip",
+            39,
+            0,
+            0
+          ],
+          [
+            16,
+            "Drábková Kristýna Mgr.",
+            32,
+            0,
+            0
+          ],
+          [
+            17,
+            "Matoušková Markéta JUDr.",
+            62,
+            0,
+            0
+          ],
+          [
+            18,
+            "La Rocca Eva Mgr.",
+            41,
+            0,
+            0
+          ],
+          [
+            19,
+            "Benda Pavel Mgr.",
+            47,
+            0,
+            0
+          ],
+          [
+            20,
+            "Voltr Milan",
+            72,
+            0,
+            0
+          ],
+          [
+            21,
+            "Václavík Antonín Mgr. Ph.D.",
+            51,
+            0,
+            0
+          ],
+          [
+            22,
+            "Kobza Radoslav Ing. arch.",
+            61,
+            0,
+            0
+          ],
+          [
+            23,
+            "Krajčíková Hana Mgr. Ing.",
+            41,
+            0,
+            0
+          ],
+          [
+            24,
+            "Pelčák Jonáš",
+            19,
+            0,
+            0
+          ],
+          [
+            25,
+            "Sedláček Marek Dartagnan Rychlonozka",
+            23,
+            0,
+            0
+          ],
+          [
+            26,
+            "Koppová Veronika",
+            23,
+            0,
+            0
+          ],
+          [
+            27,
+            "Kobzová Renata MUDr.",
+            60,
+            0,
+            0
+          ],
+          [
+            28,
+            "Glombová Helena",
+            54,
+            0,
+            0
+          ],
+          [
+            29,
+            "Adame Ondřej",
+            39,
+            0,
+            0
+          ],
+          [
+            30,
+            "Čalkovská Hana Mgr.",
+            38,
+            0,
+            0
+          ],
+          [
+            31,
+            "Trefulková Andrea Mgr.",
+            33,
+            0,
+            0
+          ],
+          [
+            32,
+            "Čoupek Lukáš Ing.",
+            41,
+            0,
+            0
+          ],
+          [
+            33,
+            "Mayer Jan Mgr.",
+            39,
+            0,
+            0
+          ],
+          [
+            34,
+            "Koppová Eva",
+            54,
+            0,
+            0
+          ],
+          [
+            35,
+            "Skotáková Záhorská Michaela Ing. arch.",
+            75,
+            0,
+            0
+          ],
+          [
+            36,
+            "Gebauer Pavel Ing. et Ing. arch.",
+            29,
+            0,
+            0
+          ],
+          [
+            37,
+            "Pokludová Karla Ing. arch.",
+            58,
+            0,
+            0
+          ],
+          [
+            38,
+            "Rudiš Viktor Ing. arch.",
+            99,
+            0,
+            0
+          ],
+          [
+            39,
+            "Tuza Karel prof. Ing. CSc.",
+            78,
+            0,
+            0
+          ],
+          [
+            40,
+            "Sedláček Antonín Ing.",
+            89,
+            0,
+            0
+          ],
+          [
+            41,
+            "Hrbková Dana Ing.",
+            40,
+            0,
+            0
+          ],
+          [
+            42,
+            "Kováč Jaroslav Bc.",
+            39,
+            0,
+            0
+          ],
+          [
+            43,
+            "Štětka Jan Mgr.",
+            39,
+            0,
+            0
+          ],
+          [
+            44,
+            "Nováčková Marie Ing.",
+            39,
+            0,
+            0
+          ],
+          [
+            45,
+            "Navrátil František Ing.",
+            70,
+            0,
+            0
+          ],
+          [
+            46,
+            "Kyjonková Michaela",
+            35,
+            0,
+            0
+          ],
+          [
+            47,
+            "Čermák Petr Mgr.",
+            39,
+            0,
+            0
+          ],
+          [
+            48,
+            "Horáčková Jarmila",
+            58,
+            0,
+            0
+          ],
+          [
+            49,
+            "Červinka Filip Ing.",
+            29,
+            0,
+            0
+          ],
+          [
+            50,
+            "Filip Tomáš Ing.",
+            38,
+            0,
+            0
+          ],
+          [
+            51,
+            "Střítecká Monika Mgr.",
+            38,
+            0,
+            0
+          ],
+          [
+            52,
+            "Hanáková Martina",
+            48,
+            0,
+            0
+          ],
+          [
+            53,
+            "Kolář Aleš",
+            59,
+            0,
+            0
+          ],
+          [
+            54,
+            "Jánská Simona",
+            39,
+            0,
+            0
+          ],
+          [
+            55,
+            "Šlapal Josef prof. RNDr. CSc.",
+            70,
+            0,
+            0
+          ]
+        ],
+        "15": [
+          [
+            1,
+            "Zemek Adam Mgr.",
+            35,
+            0,
+            0
+          ],
+          [
+            2,
+            "Bidlová Jitka Ing. arch. Ph.D.",
+            48,
+            0,
+            0
+          ],
+          [
+            3,
+            "Pokorný David Ing. Ph.D.",
+            31,
+            0,
+            0
+          ],
+          [
+            4,
+            "Lahoda Marek Mgr.",
+            34,
+            0,
+            0
+          ],
+          [
+            5,
+            "Havlíček Filip PhDr.",
+            40,
+            0,
+            0
+          ],
+          [
+            6,
+            "Šoška Marek Mgr. et Mgr.",
+            28,
+            0,
+            0
+          ],
+          [
+            7,
+            "Javůrková Kristina Mgr. Bc.",
+            37,
+            0,
+            0
+          ],
+          [
+            8,
+            "Hájková Nina Mgr.",
+            31,
+            0,
+            0
+          ],
+          [
+            9,
+            "Trčálek Antonín Ing.",
+            43,
+            0,
+            0
+          ],
+          [
+            10,
+            "Sebastiâová Paulová Iveta Bc.",
+            41,
+            0,
+            0
+          ],
+          [
+            11,
+            "Lukášová Spilková Monika Mgr. Ph.D.",
+            39,
+            0,
+            0
+          ],
+          [
+            12,
+            "Peprla Oldřich Ing.",
+            43,
+            0,
+            0
+          ],
+          [
+            13,
+            "Hvižďová Kristýna Mgr. Bc.",
+            35,
+            0,
+            0
+          ],
+          [
+            14,
+            "Bartolšicová Lenka MgA.",
+            57,
+            0,
+            0
+          ],
+          [
+            15,
+            "Škerle Michal Mgr. et Mgr.",
+            42,
+            0,
+            0
+          ],
+          [
+            16,
+            "Tichý Jan Ing.",
+            32,
+            0,
+            0
+          ],
+          [
+            17,
+            "Lexmanová Anežka Mgr.",
+            24,
+            0,
+            0
+          ],
+          [
+            18,
+            "Rochová Žaneta Mgr.",
+            31,
+            0,
+            0
+          ],
+          [
+            19,
+            "Springinsfeld Petr Bc.",
+            28,
+            0,
+            0
+          ],
+          [
+            20,
+            "Zlámalová Denisa Mgr.",
+            29,
+            0,
+            0
+          ],
+          [
+            21,
+            "Řepa Tomáš Mgr. Bc. Ph.D.",
+            40,
+            0,
+            0
+          ],
+          [
+            22,
+            "Viewegh Petr Ing. Ph.D.",
+            39,
+            0,
+            0
+          ],
+          [
+            23,
+            "Kapitančik Ondřej",
+            32,
+            0,
+            0
+          ],
+          [
+            24,
+            "Frajtová Andrea Ing.",
+            39,
+            0,
+            0
+          ],
+          [
+            25,
+            "Ray Ayudh",
+            21,
+            0,
+            0
+          ],
+          [
+            26,
+            "Mucsková Monika Ing.",
+            27,
+            0,
+            0
+          ],
+          [
+            27,
+            "Doležal Lukáš Bc.",
+            37,
+            0,
+            0
+          ],
+          [
+            28,
+            "Hájek Martin Mgr.",
+            37,
+            0,
+            0
+          ],
+          [
+            29,
+            "Psota Tomáš Ing. MBA",
+            41,
+            0,
+            0
+          ],
+          [
+            30,
+            "Křížová Karolína MgA.",
+            42,
+            0,
+            0
+          ],
+          [
+            31,
+            "Gabriel Victoria Marlene",
+            19,
+            0,
+            0
+          ],
+          [
+            32,
+            "Bartolšic Roman Ing.",
+            34,
+            0,
+            0
+          ],
+          [
+            33,
+            "Pazdírek Tereza Marti Mgr.",
+            38,
+            0,
+            0
+          ],
+          [
+            34,
+            "Ivánová Eva Bc.",
+            28,
+            0,
+            0
+          ],
+          [
+            35,
+            "Hladíková Veronika Ing. arch.",
+            43,
+            0,
+            0
+          ],
+          [
+            36,
+            "Hanzelka Michael Mgr.",
+            41,
+            0,
+            0
+          ],
+          [
+            37,
+            "Cvanová Barbora",
+            40,
+            0,
+            0
+          ],
+          [
+            38,
+            "Skoupá Valentina Bc. DiS.",
+            31,
+            0,
+            0
+          ],
+          [
+            39,
+            "Ślewczuk Jacek Mgr.",
+            34,
+            0,
+            0
+          ],
+          [
+            40,
+            "Síč Jaroslav Bc.",
+            24,
+            0,
+            0
+          ],
+          [
+            41,
+            "Konečná Barbora Bc.",
+            35,
+            0,
+            0
+          ],
+          [
+            42,
+            "Humplík Pinto Emanuela Mgr.",
+            37,
+            0,
+            0
+          ],
+          [
+            43,
+            "Sládková Jitka Ing. Mgr. Ph.D.",
+            44,
+            0,
+            0
+          ],
+          [
+            44,
+            "Pavlovský Tomáš Ing. arch. Ph.D.",
+            48,
+            0,
+            0
+          ],
+          [
+            45,
+            "Teplý Filip",
+            43,
+            0,
+            0
+          ],
+          [
+            46,
+            "Kopřivová Ivana Ing.",
+            54,
+            0,
+            0
+          ],
+          [
+            47,
+            "Přikrylová Jana Mgr.",
+            41,
+            0,
+            0
+          ],
+          [
+            48,
+            "Behanec Martin Mgr.",
+            25,
+            0,
+            0
+          ],
+          [
+            49,
+            "Slaný Filip Mgr.",
+            25,
+            0,
+            0
+          ],
+          [
+            50,
+            "Dreslerová Sarah Amálie Bc.",
+            31,
+            0,
+            0
+          ],
+          [
+            51,
+            "Ondruš Martin Mgr. Ph.D.",
+            54,
+            0,
+            0
+          ],
+          [
+            52,
+            "Kampo Dávid Ing.",
+            28,
+            0,
+            0
+          ],
+          [
+            53,
+            "Matýšková Jitka",
+            41,
+            0,
+            0
+          ],
+          [
+            54,
+            "Janíčková Dana Mgr.",
+            68,
+            0,
+            0
+          ],
+          [
+            55,
+            "Svobodová Vendula RNDr.",
+            34,
+            0,
+            0
+          ]
+        ],
+        "16": [
+          [
+            1,
+            "Kment Jiří Bc.",
+            48,
+            0,
+            0
+          ],
+          [
+            2,
+            "Prokeš Leoš  MBA",
+            43,
+            0,
+            0
+          ],
+          [
+            3,
+            "Nováková Fránková Jana Mgr.",
+            58,
+            0,
+            0
+          ],
+          [
+            4,
+            "Kotas Tomáš ak. arch.",
+            65,
+            0,
+            0
+          ],
+          [
+            5,
+            "Latýn Boris Ing. Mgr.",
+            47,
+            0,
+            0
+          ],
+          [
+            6,
+            "Havelka Petr Ing.",
+            47,
+            0,
+            0
+          ],
+          [
+            7,
+            "Chodžajanová Diana",
+            24,
+            0,
+            0
+          ],
+          [
+            8,
+            "Koš Petr",
+            58,
+            0,
+            0
+          ],
+          [
+            9,
+            "Doležel Jiří Mgr.",
+            49,
+            0,
+            0
+          ],
+          [
+            10,
+            "Myslín Bohumír Ing.",
+            51,
+            0,
+            0
+          ],
+          [
+            11,
+            "Novák František Mgr.",
+            65,
+            0,
+            0
+          ],
+          [
+            12,
+            "Beznosik Oleg Mgr.",
+            50,
+            0,
+            0
+          ],
+          [
+            13,
+            "Kočí Karel",
+            52,
+            0,
+            0
+          ],
+          [
+            14,
+            "Svitavský Marek",
+            54,
+            0,
+            0
+          ],
+          [
+            15,
+            "Kročil František",
+            66,
+            0,
+            0
+          ],
+          [
+            16,
+            "Dojiva Tomáš",
+            54,
+            0,
+            0
+          ],
+          [
+            17,
+            "Kolenčíková Barbora",
+            40,
+            0,
+            0
+          ],
+          [
+            18,
+            "Rozkošný Petr MVDr.",
+            60,
+            0,
+            0
+          ],
+          [
+            19,
+            "Růžička Antonín Ing.",
+            65,
+            0,
+            0
+          ],
+          [
+            20,
+            "Reichová Ivana MgA.",
+            65,
+            0,
+            0
+          ],
+          [
+            21,
+            "Pávek Patrik",
+            50,
+            0,
+            0
+          ],
+          [
+            22,
+            "Freimuth Roman",
+            65,
+            0,
+            0
+          ],
+          [
+            23,
+            "Baronová Jana",
+            74,
+            0,
+            0
+          ],
+          [
+            24,
+            "Grigorjanová Erika Ani Bc.",
+            22,
+            0,
+            0
+          ],
+          [
+            25,
+            "Stehlíková Pavlína",
+            54,
+            0,
+            0
+          ],
+          [
+            26,
+            "Stuchlík Vladislav",
+            76,
+            0,
+            0
+          ],
+          [
+            27,
+            "Macka Vladimír",
+            66,
+            0,
+            0
+          ],
+          [
+            28,
+            "Zach Bedřich",
+            64,
+            0,
+            0
+          ],
+          [
+            29,
+            "Řežábková Iva PhDr.",
+            69,
+            0,
+            0
+          ],
+          [
+            30,
+            "Sedlák Marek",
+            52,
+            0,
+            0
+          ],
+          [
+            31,
+            "Stavjař Michael",
+            27,
+            0,
+            0
+          ],
+          [
+            32,
+            "Bukvald Tomáš",
+            26,
+            0,
+            0
+          ],
+          [
+            33,
+            "Slezáková Dana  DiS.",
+            53,
+            0,
+            0
+          ],
+          [
+            34,
+            "Novotný Petr Ing.",
+            44,
+            0,
+            0
+          ],
+          [
+            35,
+            "Matúš Karel",
+            46,
+            0,
+            0
+          ],
+          [
+            36,
+            "Raděv Alexander",
+            52,
+            0,
+            0
+          ],
+          [
+            37,
+            "Kotasová Zdeňka",
+            48,
+            0,
+            0
+          ],
+          [
+            38,
+            "Hotový Richard",
+            32,
+            0,
+            0
+          ],
+          [
+            39,
+            "Král Petr",
+            68,
+            0,
+            0
+          ],
+          [
+            40,
+            "Přikryl Tomáš",
+            32,
+            0,
+            0
+          ],
+          [
+            41,
+            "Suchánková Petra",
+            40,
+            0,
+            0
+          ],
+          [
+            42,
+            "Chodžajan Akop",
+            52,
+            0,
+            0
+          ],
+          [
+            43,
+            "Pospíchal Emil",
+            45,
+            0,
+            0
+          ],
+          [
+            44,
+            "Machálek Roman",
+            58,
+            0,
+            0
+          ],
+          [
+            45,
+            "Neduchal Martin",
+            28,
+            0,
+            0
+          ],
+          [
+            46,
+            "Svoboda Martin Ing.",
+            58,
+            0,
+            0
+          ],
+          [
+            47,
+            "Prokeš Leon",
+            18,
+            0,
+            0
+          ],
+          [
+            48,
+            "Kořínek František",
+            65,
+            0,
+            0
+          ],
+          [
+            49,
+            "Havelková Lenka",
+            44,
+            0,
+            0
+          ],
+          [
+            50,
+            "Šlachtová Lenka",
+            65,
+            0,
+            0
+          ],
+          [
+            51,
+            "Čermáková Libuše",
+            54,
+            0,
+            0
+          ],
+          [
+            52,
+            "Motalová Jarmila",
+            76,
+            0,
+            0
+          ],
+          [
+            53,
+            "Hruban Nikola",
+            36,
+            0,
+            0
+          ],
+          [
+            54,
+            "Smoleňák Jaroslav",
+            58,
+            0,
+            0
+          ],
+          [
+            55,
+            "Cholek Karel",
+            66,
+            0,
+            0
+          ]
+        ],
+        "2": [
+          [
+            1,
+            "Hruška Jakub Bc.",
+            40,
+            0,
+            0
+          ],
+          [
+            2,
+            "Matonohová Irena JUDr.",
+            53,
+            0,
+            0
+          ],
+          [
+            3,
+            "Jílková Marie Mgr.",
+            49,
+            0,
+            0
+          ],
+          [
+            4,
+            "Marek Michal JUDr.",
+            52,
+            0,
+            0
+          ],
+          [
+            5,
+            "Hladík Petr Mgr.",
+            42,
+            0,
+            0
+          ],
+          [
+            6,
+            "Vondra Radomír",
+            57,
+            0,
+            0
+          ],
+          [
+            7,
+            "Černý Martin",
+            43,
+            0,
+            0
+          ],
+          [
+            8,
+            "Bořecký Petr",
+            38,
+            0,
+            0
+          ],
+          [
+            9,
+            "Maleček Martin Mgr.",
+            57,
+            0,
+            0
+          ],
+          [
+            10,
+            "Leder Filip Mgr.",
+            52,
+            0,
+            0
+          ],
+          [
+            11,
+            "Zabloudil Libor",
+            55,
+            0,
+            0
+          ],
+          [
+            12,
+            "Cibere Patrik Mgr.",
+            30,
+            0,
+            0
+          ],
+          [
+            13,
+            "Basel Kateřina Ing. Mgr.",
+            26,
+            0,
+            0
+          ],
+          [
+            14,
+            "Chladilová Tereza Mgr. et Mgr.",
+            38,
+            0,
+            0
+          ],
+          [
+            15,
+            "Ondroušková Simona Ing.",
+            52,
+            0,
+            0
+          ],
+          [
+            16,
+            "Chvátal Filip RNDr. Ph.D.",
+            40,
+            0,
+            0
+          ],
+          [
+            17,
+            "Juránek Štěpán Bc.",
+            36,
+            0,
+            0
+          ],
+          [
+            18,
+            "Karafiátová Tereza Mgr.",
+            42,
+            0,
+            0
+          ],
+          [
+            19,
+            "Krytinář Martin PhDr.",
+            41,
+            0,
+            0
+          ],
+          [
+            20,
+            "Charvát Marian Ing. Bc.",
+            52,
+            0,
+            0
+          ],
+          [
+            21,
+            "Holas Jakub Ing. arch.",
+            40,
+            0,
+            0
+          ],
+          [
+            22,
+            "Suchý Jaroslav Mgr.",
+            55,
+            0,
+            0
+          ],
+          [
+            23,
+            "Vérteši Martin Mgr. et Mgr. Ph.D.",
+            31,
+            0,
+            0
+          ],
+          [
+            24,
+            "Dvořáček Jiří Mgr.",
+            56,
+            0,
+            0
+          ],
+          [
+            25,
+            "Quittová Petra Bc.",
+            54,
+            0,
+            0
+          ],
+          [
+            26,
+            "Beran Vít Ing.",
+            59,
+            0,
+            0
+          ],
+          [
+            27,
+            "Crhan Pavel",
+            57,
+            0,
+            0
+          ],
+          [
+            28,
+            "Ivičičová Jitka Mgr.",
+            45,
+            0,
+            0
+          ],
+          [
+            29,
+            "Suchý Jan Ing.",
+            60,
+            0,
+            0
+          ],
+          [
+            30,
+            "Stará Lucie Mgr. et Mgr.",
+            48,
+            0,
+            0
+          ],
+          [
+            31,
+            "Krejsa Michal Bc.",
+            41,
+            0,
+            0
+          ],
+          [
+            32,
+            "Pospíšilová Hana Mgr.",
+            53,
+            0,
+            0
+          ],
+          [
+            33,
+            "Žák Martin Bc.",
+            44,
+            0,
+            0
+          ],
+          [
+            34,
+            "Brauner Marek Ing. DiS.",
+            39,
+            0,
+            0
+          ],
+          [
+            35,
+            "Kopál Miroslav",
+            50,
+            0,
+            0
+          ],
+          [
+            36,
+            "Řepa David",
+            28,
+            0,
+            0
+          ],
+          [
+            37,
+            "Belcredi Knauer Jiří Ing.",
+            43,
+            0,
+            0
+          ],
+          [
+            38,
+            "Chaloupka Michal Bc.",
+            23,
+            0,
+            0
+          ],
+          [
+            39,
+            "Kašík Ilja Mgr. Bc.",
+            47,
+            0,
+            0
+          ],
+          [
+            40,
+            "Glogar Martin Mgr.",
+            46,
+            0,
+            0
+          ],
+          [
+            41,
+            "Bravený Tomáš Ing.",
+            69,
+            0,
+            0
+          ],
+          [
+            42,
+            "Korvasová Hana Mgr.",
+            66,
+            0,
+            0
+          ],
+          [
+            43,
+            "Mikula Karel Mgr.",
+            59,
+            0,
+            0
+          ],
+          [
+            44,
+            "Paďourková Iva Mgr.",
+            54,
+            0,
+            0
+          ],
+          [
+            45,
+            "Bočková Jiřina",
+            74,
+            0,
+            0
+          ],
+          [
+            46,
+            "Sychrová Eva Ing. arch.",
+            40,
+            0,
+            0
+          ],
+          [
+            47,
+            "Hanus Filip",
+            20,
+            0,
+            0
+          ],
+          [
+            48,
+            "Šumbera Josef Ing.",
+            59,
+            0,
+            0
+          ],
+          [
+            49,
+            "Evanžin Patrik Ing.",
+            54,
+            0,
+            0
+          ],
+          [
+            50,
+            "Bednařík Marian",
+            36,
+            0,
+            0
+          ],
+          [
+            51,
+            "Hlaváček Petr Ing.",
+            49,
+            0,
+            0
+          ],
+          [
+            52,
+            "Grůzová Lucie Mgr. et Mgr. Ph.D.",
+            41,
+            0,
+            0
+          ],
+          [
+            53,
+            "Vlach Zdeněk",
+            40,
+            0,
+            0
+          ],
+          [
+            54,
+            "Vrubel Martin Mgr. Ph.D.",
+            40,
+            0,
+            0
+          ],
+          [
+            55,
+            "Šicha Václav Mgr. Bc. Ph.D.",
+            47,
+            0,
+            0
+          ]
+        ],
+        "3": [
+          [
+            1,
+            "Vencovská Natálie MgA.",
+            28,
+            0,
+            0
+          ],
+          [
+            2,
+            "Drápalová Jana Ing.",
+            63,
+            0,
+            0
+          ],
+          [
+            3,
+            "Fuchsová Kristýna JUDr.",
+            52,
+            0,
+            0
+          ],
+          [
+            4,
+            "Malenovský Jiří",
+            45,
+            0,
+            0
+          ],
+          [
+            5,
+            "Kunc Petr Ing.",
+            48,
+            0,
+            0
+          ],
+          [
+            6,
+            "Kalousek Petr BcA.",
+            46,
+            0,
+            0
+          ],
+          [
+            7,
+            "Flamiková Jasna Mgr.",
+            57,
+            0,
+            0
+          ],
+          [
+            8,
+            "Vencálek Matouš Mgr.",
+            37,
+            0,
+            0
+          ],
+          [
+            9,
+            "Blatná Milada Mgr.",
+            64,
+            0,
+            0
+          ],
+          [
+            10,
+            "Fajnorová Ivana",
+            58,
+            0,
+            0
+          ],
+          [
+            11,
+            "Kutálková Ludmila Ing.",
+            63,
+            0,
+            0
+          ],
+          [
+            12,
+            "Veselý David Ing.",
+            59,
+            0,
+            0
+          ],
+          [
+            13,
+            "Holcnerová Veronika Bc.",
+            42,
+            0,
+            0
+          ],
+          [
+            14,
+            "Reiner Martin",
+            62,
+            0,
+            0
+          ],
+          [
+            15,
+            "Stögerová Gabriela Ing.",
+            47,
+            0,
+            0
+          ],
+          [
+            16,
+            "Pospíšil Vojtěch Mgr.",
+            30,
+            0,
+            0
+          ],
+          [
+            17,
+            "Surá Veronika Ing.",
+            36,
+            0,
+            0
+          ],
+          [
+            18,
+            "Dušek Heřman",
+            25,
+            0,
+            0
+          ],
+          [
+            19,
+            "Šimková Monika Mgr.",
+            56,
+            0,
+            0
+          ],
+          [
+            20,
+            "Vaculík Filip",
+            38,
+            0,
+            0
+          ],
+          [
+            21,
+            "Vidová Martina Mgr.",
+            38,
+            0,
+            0
+          ],
+          [
+            22,
+            "Dimitrov Petr Mgr.",
+            40,
+            0,
+            0
+          ],
+          [
+            23,
+            "Kubíčková Klára Bc.",
+            47,
+            0,
+            0
+          ],
+          [
+            24,
+            "Piorecký Viktor Mgr.",
+            47,
+            0,
+            0
+          ],
+          [
+            25,
+            "Konvalinková Ruth Mgr. Ph.D.",
+            54,
+            0,
+            0
+          ],
+          [
+            26,
+            "Bartoš Leopold Ing.",
+            68,
+            0,
+            0
+          ],
+          [
+            27,
+            "Kala Marie Mgr. et Mgr. Ph.D.",
+            37,
+            0,
+            0
+          ],
+          [
+            28,
+            "Skopal Ivo Mgr.",
+            37,
+            0,
+            0
+          ],
+          [
+            29,
+            "Hlaváčková Petra Mgr. Ph.D.",
+            45,
+            0,
+            0
+          ],
+          [
+            30,
+            "Houška Jakub Ing. Ph.D.",
+            49,
+            0,
+            0
+          ],
+          [
+            31,
+            "Johnson Anne Meredith  B.A.",
+            58,
+            0,
+            0
+          ],
+          [
+            32,
+            "Oplatek David Mgr.",
+            47,
+            0,
+            0
+          ],
+          [
+            33,
+            "Gaillyová Yvonna RNDr. CSc.",
+            70,
+            0,
+            0
+          ],
+          [
+            34,
+            "Kala Lukáš Mgr. Ph.D.",
+            43,
+            0,
+            0
+          ],
+          [
+            35,
+            "Kurowski Martina Mgr. et Mgr. Ph.D.",
+            45,
+            0,
+            0
+          ],
+          [
+            36,
+            "Levíček Dalibor Mgr. MBA",
+            48,
+            0,
+            0
+          ],
+          [
+            37,
+            "Sankotová Morávková Zuzana Ing. arch.",
+            50,
+            0,
+            0
+          ],
+          [
+            38,
+            "Cinka Jindřich Mgr.",
+            42,
+            0,
+            0
+          ],
+          [
+            39,
+            "Kučerová Eva MUDr.",
+            37,
+            0,
+            0
+          ],
+          [
+            40,
+            "Slovák Martin Ing.",
+            48,
+            0,
+            0
+          ],
+          [
+            41,
+            "Koláčná Irena",
+            54,
+            0,
+            0
+          ],
+          [
+            42,
+            "Macháček Ctirad MUDr.",
+            43,
+            0,
+            0
+          ],
+          [
+            43,
+            "Mišove Adéla  MSci",
+            29,
+            0,
+            0
+          ],
+          [
+            44,
+            "Šrom Martin Ing. Bc.",
+            45,
+            0,
+            0
+          ],
+          [
+            45,
+            "Machálek Petr Bc.",
+            49,
+            0,
+            0
+          ],
+          [
+            46,
+            "Brzobohatý Libor BcA.",
+            31,
+            0,
+            0
+          ],
+          [
+            47,
+            "Hollan Jan RNDr. Ph.D.",
+            70,
+            0,
+            0
+          ],
+          [
+            48,
+            "Skála Benjamín Bc.",
+            42,
+            0,
+            0
+          ],
+          [
+            49,
+            "Drlíková Johana Mgr.",
+            36,
+            0,
+            0
+          ],
+          [
+            50,
+            "Timmerberg Daniel",
+            46,
+            0,
+            0
+          ],
+          [
+            51,
+            "Kratochvílová Hana",
+            37,
+            0,
+            0
+          ],
+          [
+            52,
+            "Klammert Pavel Mgr.",
+            34,
+            0,
+            0
+          ],
+          [
+            53,
+            "Valentová Iva Ing.",
+            61,
+            0,
+            0
+          ],
+          [
+            54,
+            "Ostrčilík Jaroslav Mgr.",
+            43,
+            0,
+            0
+          ],
+          [
+            55,
+            "Berg Michal BcA.",
+            46,
+            0,
+            0
+          ]
+        ],
+        "4": [
+          [
+            1,
+            "Trojan Václav MVDr. Ing. Ph.D.",
+            41,
+            0,
+            0
+          ],
+          [
+            2,
+            "Ludka Ondřej prof. MUDr. Ph.D.",
+            52,
+            0,
+            0
+          ],
+          [
+            3,
+            "Rybka Jindřich Ing. BA., MBA",
+            56,
+            0,
+            0
+          ],
+          [
+            4,
+            "Kremitovská Iva Ing. arch.",
+            65,
+            0,
+            0
+          ],
+          [
+            5,
+            "Kubásek Miroslav RNDr. Ph.D.",
+            52,
+            0,
+            0
+          ],
+          [
+            6,
+            "Artimová Zuzana Olga PaedDr. Ing. MBA, LL.M.",
+            62,
+            0,
+            0
+          ],
+          [
+            7,
+            "Tupa Libor",
+            41,
+            0,
+            0
+          ],
+          [
+            8,
+            "Chorvátová Hana",
+            52,
+            0,
+            0
+          ],
+          [
+            9,
+            "Havránková Sabina Ing. MBA",
+            30,
+            0,
+            0
+          ],
+          [
+            10,
+            "Procházka Ondřej Ing.",
+            53,
+            0,
+            0
+          ],
+          [
+            11,
+            "Hejl Tomáš  MBA",
+            40,
+            0,
+            0
+          ],
+          [
+            12,
+            "Oulehlová Ludmila",
+            62,
+            0,
+            0
+          ],
+          [
+            13,
+            "Škárek Jiří  DiS.",
+            51,
+            0,
+            0
+          ],
+          [
+            14,
+            "Kvíčala Aleš Ing.",
+            43,
+            0,
+            0
+          ],
+          [
+            15,
+            "Sklenář Zdeněk Ing. et Ing.",
+            50,
+            0,
+            0
+          ],
+          [
+            16,
+            "Stanislav Adam Ing.",
+            24,
+            0,
+            0
+          ],
+          [
+            17,
+            "Tyralík Pavel Mgr. Ing.",
+            62,
+            0,
+            0
+          ],
+          [
+            18,
+            "Maršálek Ondřej Ing.",
+            27,
+            0,
+            0
+          ],
+          [
+            19,
+            "Hemerka Vladimír Mgr.",
+            52,
+            0,
+            0
+          ],
+          [
+            20,
+            "Bauer Petr",
+            48,
+            0,
+            0
+          ],
+          [
+            21,
+            "Machů Zdeněk Ing.",
+            49,
+            0,
+            0
+          ],
+          [
+            22,
+            "Kocmánková Denisa Ing. MBA",
+            46,
+            0,
+            0
+          ],
+          [
+            23,
+            "Zima Tomáš Mgr.",
+            34,
+            0,
+            0
+          ],
+          [
+            24,
+            "Hoffmann David Ing. arch.",
+            53,
+            0,
+            0
+          ],
+          [
+            25,
+            "Kinc Michael Ing.",
+            28,
+            0,
+            0
+          ],
+          [
+            26,
+            "Mašková Tereza",
+            35,
+            0,
+            0
+          ],
+          [
+            27,
+            "Jirmus Vladimír Ing.",
+            59,
+            0,
+            0
+          ],
+          [
+            28,
+            "Chmela Matěj",
+            48,
+            0,
+            0
+          ],
+          [
+            29,
+            "Pokorný Tomáš",
+            54,
+            0,
+            0
+          ],
+          [
+            30,
+            "Cimbálník Tomáš Ing. Bc.",
+            45,
+            0,
+            0
+          ],
+          [
+            31,
+            "Krupica Miroslav",
+            31,
+            0,
+            0
+          ],
+          [
+            32,
+            "Zemanová Šárka Ing. Ph.D.",
+            55,
+            0,
+            0
+          ],
+          [
+            33,
+            "Beran David Ing. Ph.D.",
+            46,
+            0,
+            0
+          ],
+          [
+            34,
+            "Slavíček Miroslav",
+            54,
+            0,
+            0
+          ],
+          [
+            35,
+            "Doupovec Tomáš",
+            50,
+            0,
+            0
+          ],
+          [
+            36,
+            "Machalický Tomáš Ing.",
+            50,
+            0,
+            0
+          ],
+          [
+            37,
+            "Brychta Jakub",
+            35,
+            0,
+            0
+          ],
+          [
+            38,
+            "Nádeníček Ivo",
+            35,
+            0,
+            0
+          ],
+          [
+            39,
+            "Čebiš Jan Mgr. DiS.",
+            47,
+            0,
+            0
+          ],
+          [
+            40,
+            "Brzobohatý Antonín Ing.",
+            70,
+            0,
+            0
+          ],
+          [
+            41,
+            "Musil Vladislav prof. Ing. CSc.",
+            73,
+            0,
+            0
+          ],
+          [
+            42,
+            "Tomečka Radim Mgr.",
+            33,
+            0,
+            0
+          ],
+          [
+            43,
+            "Dosoudil Zdeněk",
+            50,
+            0,
+            0
+          ],
+          [
+            44,
+            "Dykast Radek Ing. MBA",
+            31,
+            0,
+            0
+          ],
+          [
+            45,
+            "Voneš Radek Bc. MBA",
+            55,
+            0,
+            0
+          ],
+          [
+            46,
+            "Vystrčilová Lenka",
+            46,
+            0,
+            0
+          ],
+          [
+            47,
+            "Nakládal Bořivoj",
+            73,
+            0,
+            0
+          ],
+          [
+            48,
+            "Sedláček Jan Mgr.",
+            45,
+            0,
+            0
+          ],
+          [
+            49,
+            "Pokorná Alena Bc.",
+            54,
+            0,
+            0
+          ],
+          [
+            50,
+            "Šenk František Ing.",
+            56,
+            0,
+            0
+          ],
+          [
+            51,
+            "Nečas Bohumil",
+            75,
+            0,
+            0
+          ],
+          [
+            52,
+            "Vítková Jitka",
+            70,
+            0,
+            0
+          ],
+          [
+            53,
+            "Fischerová Jiřina Mgr.",
+            37,
+            0,
+            0
+          ],
+          [
+            54,
+            "Kučírek Věroslav Bc.",
+            49,
+            0,
+            0
+          ],
+          [
+            55,
+            "Netolický Michal Ing.",
+            27,
+            0,
+            0
+          ]
+        ],
+        "5": [
+          [
+            1,
+            "Tichá Janulíková Jana Mgr. et Mgr.",
+            50,
+            0,
+            0
+          ],
+          [
+            2,
+            "Winkler Lukáš Bc.",
+            37,
+            0,
+            0
+          ],
+          [
+            3,
+            "Koláčný Tomáš Bc.",
+            34,
+            0,
+            0
+          ],
+          [
+            4,
+            "Horský Jiří Ing.",
+            50,
+            0,
+            0
+          ],
+          [
+            5,
+            "Fišer Marek Ing.",
+            43,
+            0,
+            0
+          ],
+          [
+            6,
+            "Vařejková Helena Ing. arch.",
+            64,
+            0,
+            0
+          ],
+          [
+            7,
+            "Knecht Pavel Ing.",
+            40,
+            0,
+            0
+          ],
+          [
+            8,
+            "Grmela Jan Ing.",
+            39,
+            0,
+            0
+          ],
+          [
+            9,
+            "Blažková Ladislava Bc.",
+            39,
+            0,
+            0
+          ],
+          [
+            10,
+            "Štefka Martin Bc.",
+            35,
+            0,
+            0
+          ],
+          [
+            11,
+            "Palkovská Iva JUDr.",
+            35,
+            0,
+            0
+          ],
+          [
+            12,
+            "Hron Josef",
+            75,
+            0,
+            0
+          ],
+          [
+            13,
+            "Částková Patricie Mgr.",
+            55,
+            0,
+            0
+          ],
+          [
+            14,
+            "Žvák Michal",
+            46,
+            0,
+            0
+          ],
+          [
+            15,
+            "Novotný Alan",
+            48,
+            0,
+            0
+          ],
+          [
+            16,
+            "Prudík Patrik",
+            35,
+            0,
+            0
+          ],
+          [
+            17,
+            "Klestilová Vanda",
+            31,
+            0,
+            0
+          ],
+          [
+            18,
+            "Kurtis Gabriel Ing. arch.",
+            42,
+            0,
+            0
+          ],
+          [
+            19,
+            "Mičková Karolína",
+            36,
+            0,
+            0
+          ],
+          [
+            20,
+            "Štaud Ondřej PhDr. Ph.D.",
+            41,
+            0,
+            0
+          ],
+          [
+            21,
+            "Kocábová Magdalena Ing.",
+            37,
+            0,
+            0
+          ],
+          [
+            22,
+            "Ruggiero Emanuele MgA.",
+            58,
+            0,
+            0
+          ],
+          [
+            23,
+            "Mrázková Alžběta",
+            19,
+            0,
+            0
+          ],
+          [
+            24,
+            "Šrubař Vojtěch Ing.",
+            37,
+            0,
+            0
+          ],
+          [
+            25,
+            "Sordo Ellen",
+            26,
+            0,
+            0
+          ],
+          [
+            26,
+            "Albrecht Kamil Mgr.",
+            47,
+            0,
+            0
+          ],
+          [
+            27,
+            "Kučera Lukáš",
+            44,
+            0,
+            0
+          ],
+          [
+            28,
+            "Crha Karel MUDr.",
+            41,
+            0,
+            0
+          ],
+          [
+            29,
+            "Maršálek Lubomír",
+            80,
+            0,
+            0
+          ],
+          [
+            30,
+            "Kupková Marika PhDr. Ph.D.",
+            53,
+            0,
+            0
+          ],
+          [
+            31,
+            "Bajer Vladimír",
+            53,
+            0,
+            0
+          ],
+          [
+            32,
+            "Kumpanová Valachovičová Simona Ing.",
+            38,
+            0,
+            0
+          ],
+          [
+            33,
+            "Zvejška Radim",
+            22,
+            0,
+            0
+          ],
+          [
+            34,
+            "Anton Ondřej doc. Ing. Ph.D.",
+            58,
+            0,
+            0
+          ],
+          [
+            35,
+            "Filip Jiří Mgr.",
+            44,
+            0,
+            0
+          ],
+          [
+            36,
+            "Grmelová Lucie Ing.",
+            39,
+            0,
+            0
+          ],
+          [
+            37,
+            "Holčík Jan",
+            52,
+            0,
+            0
+          ],
+          [
+            38,
+            "Otřísalová Lenka",
+            53,
+            0,
+            0
+          ],
+          [
+            39,
+            "Matýsková Veronika",
+            39,
+            0,
+            0
+          ],
+          [
+            40,
+            "Bubela Tomáš Mgr.",
+            37,
+            0,
+            0
+          ],
+          [
+            41,
+            "Špičková Šárka Mgr.",
+            49,
+            0,
+            0
+          ],
+          [
+            42,
+            "Číhalová Lucie",
+            32,
+            0,
+            0
+          ],
+          [
+            43,
+            "Havlík Pavel Bc.",
+            43,
+            0,
+            0
+          ],
+          [
+            44,
+            "Solničková Lenka",
+            57,
+            0,
+            0
+          ],
+          [
+            45,
+            "Albrechtová Jitka Ing.",
+            46,
+            0,
+            0
+          ],
+          [
+            46,
+            "Nechvátal Filip",
+            32,
+            0,
+            0
+          ],
+          [
+            47,
+            "Procházka Miroslav",
+            46,
+            0,
+            0
+          ],
+          [
+            48,
+            "Doležalová Adéla",
+            21,
+            0,
+            0
+          ],
+          [
+            49,
+            "Bělková Lenka Mgr.",
+            60,
+            0,
+            0
+          ],
+          [
+            50,
+            "Číhalová Božena",
+            54,
+            0,
+            0
+          ],
+          [
+            51,
+            "Polášek Hynek",
+            39,
+            0,
+            0
+          ],
+          [
+            52,
+            "Svobodová Iva",
+            41,
+            0,
+            0
+          ],
+          [
+            53,
+            "Teerink Mark",
+            36,
+            0,
+            0
+          ],
+          [
+            54,
+            "Hořanský Martin Bc.",
+            30,
+            0,
+            0
+          ],
+          [
+            55,
+            "Fišerová Zora",
+            72,
+            0,
+            0
+          ]
+        ],
+        "6": [
+          [
+            1,
+            "Zlatušková Kamila MgA. Ph.D.",
+            45,
+            0,
+            0
+          ],
+          [
+            2,
+            "Aberl Tomáš Bc.",
+            38,
+            0,
+            0
+          ],
+          [
+            3,
+            "Pazderová Andrea Ing.",
+            58,
+            0,
+            0
+          ],
+          [
+            4,
+            "Basel Martin Ing. Mgr.",
+            32,
+            0,
+            0
+          ],
+          [
+            5,
+            "Mencl Vojtěch Ing. arch.",
+            56,
+            0,
+            0
+          ],
+          [
+            6,
+            "Příborský Martin JUDr. PhDr. EMLE",
+            49,
+            0,
+            0
+          ],
+          [
+            7,
+            "Silnica Martin Mgr.",
+            29,
+            0,
+            0
+          ],
+          [
+            8,
+            "Grund David Ing.",
+            38,
+            0,
+            0
+          ],
+          [
+            9,
+            "Trllo David Ing.",
+            42,
+            0,
+            0
+          ],
+          [
+            10,
+            "Chládek Michal Mgr.",
+            31,
+            0,
+            0
+          ],
+          [
+            11,
+            "Svoboda Matyáš Mgr.",
+            36,
+            0,
+            0
+          ],
+          [
+            12,
+            "Urubek Pavel Ing.",
+            47,
+            0,
+            0
+          ],
+          [
+            13,
+            "Krásný Vladan Mgr.",
+            58,
+            0,
+            0
+          ],
+          [
+            14,
+            "Fučík Igor Bc. MBA",
+            51,
+            0,
+            0
+          ],
+          [
+            15,
+            "Velička Michal Ing.",
+            48,
+            0,
+            0
+          ],
+          [
+            16,
+            "Kreisl Natálie Bc.",
+            26,
+            0,
+            0
+          ],
+          [
+            17,
+            "Jankůj Pavel Ing.",
+            64,
+            0,
+            0
+          ],
+          [
+            18,
+            "Krupka Peter RNDr. Ph.D.",
+            61,
+            0,
+            0
+          ],
+          [
+            19,
+            "Bohuňovská Jana Ing.",
+            66,
+            0,
+            0
+          ],
+          [
+            20,
+            "Cechová Šárka JUDr.",
+            45,
+            0,
+            0
+          ],
+          [
+            21,
+            "Vašina Roman Ing.",
+            68,
+            0,
+            0
+          ],
+          [
+            22,
+            "Jára Tomáš Ing.",
+            46,
+            0,
+            0
+          ],
+          [
+            23,
+            "Duchaň Marek Mgr.",
+            25,
+            0,
+            0
+          ],
+          [
+            24,
+            "Ostrý Jakub Mgr.",
+            44,
+            0,
+            0
+          ],
+          [
+            25,
+            "Michalík Stanislav Ing.",
+            63,
+            0,
+            0
+          ],
+          [
+            26,
+            "Staňková Nikola Ing.",
+            38,
+            0,
+            0
+          ],
+          [
+            27,
+            "Brázda Michael Mgr. et Mgr. LL.M.",
+            50,
+            0,
+            0
+          ],
+          [
+            28,
+            "Šik Evžen",
+            59,
+            0,
+            0
+          ],
+          [
+            29,
+            "Krčmař Tomáš Ing.",
+            29,
+            0,
+            0
+          ],
+          [
+            30,
+            "Seidlová Dagmar MUDr. Ph.D.",
+            61,
+            0,
+            0
+          ],
+          [
+            31,
+            "Vižďa František doc. RNDr. Ph.D.",
+            57,
+            0,
+            0
+          ],
+          [
+            32,
+            "Herman Jiří RNDr. Ph.D.",
+            70,
+            0,
+            0
+          ],
+          [
+            33,
+            "Vobořil Jindřich Mgr. Pg.Dip.",
+            60,
+            0,
+            0
+          ],
+          [
+            34,
+            "Pelikán Karel Mgr. Bc.",
+            27,
+            0,
+            0
+          ],
+          [
+            35,
+            "Filipi Dana",
+            56,
+            0,
+            0
+          ],
+          [
+            36,
+            "Borovec Ivo  MBA",
+            50,
+            0,
+            0
+          ],
+          [
+            37,
+            "Boričová Lenka Bc.",
+            33,
+            0,
+            0
+          ],
+          [
+            38,
+            "Zelinko Vardanová Veronika Mgr.",
+            42,
+            0,
+            0
+          ],
+          [
+            39,
+            "Foltýn Richard",
+            53,
+            0,
+            0
+          ],
+          [
+            40,
+            "Oulehla Jan",
+            26,
+            0,
+            0
+          ],
+          [
+            41,
+            "Solak Damir Mgr.",
+            29,
+            0,
+            0
+          ],
+          [
+            42,
+            "Sieglová Martina Mgr.",
+            25,
+            0,
+            0
+          ],
+          [
+            43,
+            "Bernard Tomáš Bc. DiS.",
+            38,
+            0,
+            0
+          ],
+          [
+            44,
+            "Břenková Jana Mgr. Bc.",
+            41,
+            0,
+            0
+          ],
+          [
+            45,
+            "Boula Lukáš",
+            44,
+            0,
+            0
+          ],
+          [
+            46,
+            "Krejčí Filip Mgr.",
+            26,
+            0,
+            0
+          ],
+          [
+            47,
+            "Svobodová Eva Ing.",
+            72,
+            0,
+            0
+          ],
+          [
+            48,
+            "Dubová Zuzana MgA.",
+            42,
+            0,
+            0
+          ],
+          [
+            49,
+            "Punčochář Petr Mgr.",
+            56,
+            0,
+            0
+          ],
+          [
+            50,
+            "Zorník Jiří",
+            75,
+            0,
+            0
+          ],
+          [
+            51,
+            "Lepka Michal Bc.",
+            57,
+            0,
+            0
+          ],
+          [
+            52,
+            "Válek Vlastimil prof. MUDr. CSc., MBA, EBIR",
+            66,
+            0,
+            0
+          ],
+          [
+            53,
+            "Michelčíková Nikola Bc.",
+            35,
+            0,
+            0
+          ],
+          [
+            54,
+            "Čorná Julia Bc.",
+            27,
+            0,
+            0
+          ],
+          [
+            55,
+            "Mikulka Michal",
+            20,
+            0,
+            0
+          ]
+        ],
+        "7": [
+          [
+            1,
+            "Říha Martin",
+            57,
+            0,
+            0
+          ],
+          [
+            2,
+            "Rédová Fajmonová Petra",
+            50,
+            0,
+            0
+          ],
+          [
+            3,
+            "Kotek Vladimír MUDr. Ph.D., MBA",
+            66,
+            0,
+            0
+          ],
+          [
+            4,
+            "Hudlík Petr",
+            72,
+            0,
+            0
+          ],
+          [
+            5,
+            "Ožana Vilém Mgr.",
+            59,
+            0,
+            0
+          ],
+          [
+            6,
+            "Hochmannová Jana",
+            64,
+            0,
+            0
+          ],
+          [
+            7,
+            "Fišer Václav Ing.",
+            64,
+            0,
+            0
+          ],
+          [
+            8,
+            "Šudík Vincent Ing.",
+            68,
+            0,
+            0
+          ],
+          [
+            9,
+            "Valoušek Martin",
+            49,
+            0,
+            0
+          ],
+          [
+            10,
+            "Chládek Libor Ing. BA",
+            48,
+            0,
+            0
+          ],
+          [
+            11,
+            "Hráček Jiří",
+            40,
+            0,
+            0
+          ],
+          [
+            12,
+            "Foral Tomáš Ing.",
+            61,
+            0,
+            0
+          ],
+          [
+            13,
+            "Králík Jiří Bc.",
+            44,
+            0,
+            0
+          ],
+          [
+            14,
+            "Svobodová Kateřina Bc.",
+            28,
+            0,
+            0
+          ],
+          [
+            15,
+            "Zajícová Lucie",
+            63,
+            0,
+            0
+          ],
+          [
+            16,
+            "Hladký Václav",
+            50,
+            0,
+            0
+          ],
+          [
+            17,
+            "Quirencová Vladimíra",
+            75,
+            0,
+            0
+          ],
+          [
+            18,
+            "Svoboda Martin",
+            30,
+            0,
+            0
+          ],
+          [
+            19,
+            "Valach Pavel",
+            49,
+            0,
+            0
+          ],
+          [
+            20,
+            "Svobodová Sofie",
+            21,
+            0,
+            0
+          ],
+          [
+            21,
+            "Štefanková Aneta",
+            24,
+            0,
+            0
+          ],
+          [
+            22,
+            "Havlová Tereza",
+            24,
+            0,
+            0
+          ],
+          [
+            23,
+            "Ožana Vilém Mgr.",
+            27,
+            0,
+            0
+          ],
+          [
+            24,
+            "Hladík Pavel",
+            42,
+            0,
+            0
+          ],
+          [
+            25,
+            "Pekárková Eva",
+            38,
+            0,
+            0
+          ],
+          [
+            26,
+            "Sochorová Lenka  DiS.",
+            39,
+            0,
+            0
+          ],
+          [
+            27,
+            "Malá Lenka Mgr.",
+            62,
+            0,
+            0
+          ],
+          [
+            28,
+            "Nekvapil Antonín",
+            41,
+            0,
+            0
+          ],
+          [
+            29,
+            "Baráková Petra",
+            42,
+            0,
+            0
+          ],
+          [
+            30,
+            "Svoboda David",
+            42,
+            0,
+            0
+          ],
+          [
+            31,
+            "Brdičková Ester",
+            45,
+            0,
+            0
+          ],
+          [
+            32,
+            "Škarvada Jaroslav Ing. Ph.D.",
+            45,
+            0,
+            0
+          ],
+          [
+            33,
+            "Čáp Marek",
+            45,
+            0,
+            0
+          ],
+          [
+            34,
+            "Hoskovcová Dana",
+            47,
+            0,
+            0
+          ],
+          [
+            35,
+            "Vavruša Miloš",
+            48,
+            0,
+            0
+          ],
+          [
+            36,
+            "Jadrná Kamila Ing. Bc.",
+            50,
+            0,
+            0
+          ],
+          [
+            37,
+            "Šlesingerová Petra",
+            50,
+            0,
+            0
+          ],
+          [
+            38,
+            "Kvapilová Petra",
+            50,
+            0,
+            0
+          ],
+          [
+            39,
+            "Dvořák Jan",
+            53,
+            0,
+            0
+          ],
+          [
+            40,
+            "Fazor Jiří",
+            56,
+            0,
+            0
+          ],
+          [
+            41,
+            "Košťálová Krista Mgr.",
+            69,
+            0,
+            0
+          ],
+          [
+            42,
+            "Štefanková Jarmila",
+            57,
+            0,
+            0
+          ],
+          [
+            43,
+            "Rudova Galya Petrova",
+            58,
+            0,
+            0
+          ],
+          [
+            44,
+            "Hubicsák Ludvík",
+            58,
+            0,
+            0
+          ],
+          [
+            45,
+            "Truksová Simona",
+            62,
+            0,
+            0
+          ],
+          [
+            46,
+            "Sojka Miroslav",
+            64,
+            0,
+            0
+          ],
+          [
+            47,
+            "Danhelová Jarmila",
+            65,
+            0,
+            0
+          ],
+          [
+            48,
+            "Kellerová Alena",
+            66,
+            0,
+            0
+          ],
+          [
+            49,
+            "Žáčková Miroslava",
+            81,
+            0,
+            0
+          ],
+          [
+            50,
+            "Procházková Jitka",
+            71,
+            0,
+            0
+          ],
+          [
+            51,
+            "Pelikánová Miroslava",
+            73,
+            0,
+            0
+          ],
+          [
+            52,
+            "Konečná Vlasta",
+            73,
+            0,
+            0
+          ],
+          [
+            53,
+            "Krišo Milan",
+            79,
+            0,
+            0
+          ],
+          [
+            54,
+            "Zimola Zdeněk",
+            79,
+            0,
+            0
+          ],
+          [
+            55,
+            "Borek Josef",
+            82,
+            0,
+            0
+          ]
+        ],
+        "8": [
+          [
+            1,
+            "Podivinská Karasová Karin Ing.",
+            60,
+            0,
+            0
+          ],
+          [
+            2,
+            "Bořecký Petr Ing. arch.",
+            49,
+            0,
+            0
+          ],
+          [
+            3,
+            "Jarošová Kateřina Bc. MBA",
+            53,
+            0,
+            0
+          ],
+          [
+            4,
+            "Souček Petr Ing.",
+            45,
+            0,
+            0
+          ],
+          [
+            5,
+            "Kalivoda Karel Ing.",
+            60,
+            0,
+            0
+          ],
+          [
+            6,
+            "Levíček Petr Ing.",
+            62,
+            0,
+            0
+          ],
+          [
+            7,
+            "Landa Martin Mgr.",
+            50,
+            0,
+            0
+          ],
+          [
+            8,
+            "Šimek Bohumil JUDr.",
+            67,
+            0,
+            0
+          ],
+          [
+            9,
+            "Rovný Ivo MUDr. MBA",
+            57,
+            0,
+            0
+          ],
+          [
+            10,
+            "Prýgl Vít  MBA",
+            66,
+            0,
+            0
+          ],
+          [
+            11,
+            "Ledvinková Soňa Ing.",
+            47,
+            0,
+            0
+          ],
+          [
+            12,
+            "Karásek Jiří Mgr.",
+            66,
+            0,
+            0
+          ],
+          [
+            13,
+            "Kurucz Robert",
+            40,
+            0,
+            0
+          ],
+          [
+            14,
+            "Šťastník Ondřej Ing.",
+            54,
+            0,
+            0
+          ],
+          [
+            15,
+            "Kypr Daniel Mgr. Ing.",
+            55,
+            0,
+            0
+          ],
+          [
+            16,
+            "Benešová Sabina Mgr. et Mgr. DiS., LL.M.",
+            32,
+            0,
+            0
+          ],
+          [
+            17,
+            "Gruberová Alena MUDr.",
+            69,
+            0,
+            0
+          ],
+          [
+            18,
+            "Kříž Pavel Ing.",
+            61,
+            0,
+            0
+          ],
+          [
+            19,
+            "Rovná Natalie",
+            33,
+            0,
+            0
+          ],
+          [
+            20,
+            "Oupor Petr",
+            54,
+            0,
+            0
+          ],
+          [
+            21,
+            "Kučera Ivo MgA.",
+            78,
+            0,
+            0
+          ],
+          [
+            22,
+            "Polášková Renata Mgr.",
+            58,
+            0,
+            0
+          ],
+          [
+            23,
+            "Novotná Jana Ing.",
+            58,
+            0,
+            0
+          ],
+          [
+            24,
+            "Sedláková Ilona Mgr.",
+            59,
+            0,
+            0
+          ],
+          [
+            25,
+            "Jelínek Petr Mgr.",
+            44,
+            0,
+            0
+          ],
+          [
+            26,
+            "Janáček Petr Mgr.",
+            41,
+            0,
+            0
+          ],
+          [
+            27,
+            "Buček Tomáš Mgr.",
+            41,
+            0,
+            0
+          ],
+          [
+            28,
+            "Štourač Martin Ing.",
+            42,
+            0,
+            0
+          ],
+          [
+            29,
+            "Palaščak Michal doc. Ing.",
+            55,
+            0,
+            0
+          ],
+          [
+            30,
+            "Mazurová Lenka Ing. arch.",
+            36,
+            0,
+            0
+          ],
+          [
+            31,
+            "Védlová Agáta Ing.",
+            63,
+            0,
+            0
+          ],
+          [
+            32,
+            "Škárková Marie",
+            67,
+            0,
+            0
+          ],
+          [
+            33,
+            "Pejchalová Jana JUDr.",
+            67,
+            0,
+            0
+          ],
+          [
+            34,
+            "Kabache Pavla",
+            43,
+            0,
+            0
+          ],
+          [
+            35,
+            "Karasová Vanessa  DiS.",
+            23,
+            0,
+            0
+          ],
+          [
+            36,
+            "Matula Jaroslav",
+            59,
+            0,
+            0
+          ],
+          [
+            37,
+            "Petýrková Daria Bc.",
+            37,
+            0,
+            0
+          ],
+          [
+            38,
+            "Kadlčík Petr Ing. arch.",
+            48,
+            0,
+            0
+          ],
+          [
+            39,
+            "Karasová Barbara  DiS.",
+            25,
+            0,
+            0
+          ],
+          [
+            40,
+            "Kovač Petr Mgr.",
+            71,
+            0,
+            0
+          ],
+          [
+            41,
+            "Rokytová Luďka Ing.",
+            60,
+            0,
+            0
+          ],
+          [
+            42,
+            "Konečný Pavel",
+            47,
+            0,
+            0
+          ],
+          [
+            43,
+            "Galia Lukas",
+            19,
+            0,
+            0
+          ],
+          [
+            44,
+            "Novotná Lenka Ing. Ph.D.",
+            40,
+            0,
+            0
+          ],
+          [
+            45,
+            "Matulová Pavla",
+            59,
+            0,
+            0
+          ],
+          [
+            46,
+            "Olbertová Barbora Bc. DiS.",
+            32,
+            0,
+            0
+          ],
+          [
+            47,
+            "Pelánová Andrea  DiS.",
+            52,
+            0,
+            0
+          ],
+          [
+            48,
+            "Česalová Petra Mgr.",
+            55,
+            0,
+            0
+          ],
+          [
+            49,
+            "Truska Adam",
+            40,
+            0,
+            0
+          ],
+          [
+            50,
+            "Tejkalová Iva",
+            54,
+            0,
+            0
+          ],
+          [
+            51,
+            "Fuksa Ladislav Ing.",
+            60,
+            0,
+            0
+          ],
+          [
+            52,
+            "Kopijevská Anželika",
+            49,
+            0,
+            0
+          ],
+          [
+            53,
+            "Kašparová Ivana",
+            52,
+            0,
+            0
+          ],
+          [
+            54,
+            "Pelán René",
+            60,
+            0,
+            0
+          ],
+          [
+            55,
+            "Benešová Věra",
+            80,
+            0,
+            0
+          ]
+        ],
+        "9": [
+          [
+            1,
+            "Kratochvíl Tomáš JUDr.",
+            58,
+            0,
+            0
+          ],
+          [
+            2,
+            "Novák Lubor Ing.",
+            60,
+            0,
+            0
+          ],
+          [
+            3,
+            "Pham Quoc Tan Mgr.",
+            40,
+            0,
+            0
+          ],
+          [
+            4,
+            "Jurůjová Veronika Mgr.",
+            27,
+            0,
+            0
+          ],
+          [
+            5,
+            "Stehno Igor",
+            58,
+            0,
+            0
+          ],
+          [
+            6,
+            "Mihulová Iva MUDr.",
+            59,
+            0,
+            0
+          ],
+          [
+            7,
+            "Špaček Jaromír Mgr.",
+            44,
+            0,
+            0
+          ],
+          [
+            8,
+            "Urbanec František JUDr.",
+            76,
+            0,
+            0
+          ],
+          [
+            9,
+            "Stejná Hana Ing.",
+            49,
+            0,
+            0
+          ],
+          [
+            10,
+            "Šulc Petr JUDr.",
+            66,
+            0,
+            0
+          ],
+          [
+            11,
+            "Šebl Petr Bc.",
+            57,
+            0,
+            0
+          ],
+          [
+            12,
+            "Zábrš Petr",
+            51,
+            0,
+            0
+          ],
+          [
+            13,
+            "Barták Dalibor",
+            58,
+            0,
+            0
+          ],
+          [
+            14,
+            "Chour Štěpán",
+            29,
+            0,
+            0
+          ],
+          [
+            15,
+            "Jimramovská Ludmila Mgr. et Mgr.",
+            68,
+            0,
+            0
+          ],
+          [
+            16,
+            "Mihula Lukáš Bc.",
+            22,
+            0,
+            0
+          ],
+          [
+            17,
+            "Hudec Radek",
+            41,
+            0,
+            0
+          ],
+          [
+            18,
+            "Špalek Matěj",
+            23,
+            0,
+            0
+          ],
+          [
+            19,
+            "Navara Richard",
+            25,
+            0,
+            0
+          ],
+          [
+            20,
+            "Wolfsberg Adam Peter Mgr.",
+            37,
+            0,
+            0
+          ],
+          [
+            21,
+            "Malý Vladimír RNDr.",
+            74,
+            0,
+            0
+          ],
+          [
+            22,
+            "Beránek Oldřich",
+            34,
+            0,
+            0
+          ],
+          [
+            23,
+            "Hořanský Marek Mgr.",
+            45,
+            0,
+            0
+          ],
+          [
+            24,
+            "Voráček Michal Ing.",
+            60,
+            0,
+            0
+          ],
+          [
+            25,
+            "Matušek Jiří Ing. arch.",
+            66,
+            0,
+            0
+          ],
+          [
+            26,
+            "Sedlák Martin",
+            57,
+            0,
+            0
+          ],
+          [
+            27,
+            "Chytil Martin",
+            48,
+            0,
+            0
+          ],
+          [
+            28,
+            "Vítek Michal",
+            36,
+            0,
+            0
+          ],
+          [
+            29,
+            "Fencl Ivan Ing. Ph.D.",
+            68,
+            0,
+            0
+          ],
+          [
+            30,
+            "Valíček Roman",
+            30,
+            0,
+            0
+          ],
+          [
+            31,
+            "Markusek Ricardo",
+            30,
+            0,
+            0
+          ],
+          [
+            32,
+            "Kresek Daniel",
+            40,
+            0,
+            0
+          ],
+          [
+            33,
+            "Bartáková Božena",
+            58,
+            0,
+            0
+          ],
+          [
+            34,
+            "Špalková Jana",
+            49,
+            0,
+            0
+          ],
+          [
+            35,
+            "Hnátek Jiří",
+            44,
+            0,
+            0
+          ],
+          [
+            36,
+            "Klíma Lukáš",
+            35,
+            0,
+            0
+          ],
+          [
+            37,
+            "Lowáková Tamara Mgr.",
+            74,
+            0,
+            0
+          ],
+          [
+            38,
+            "Franková Lucie",
+            36,
+            0,
+            0
+          ],
+          [
+            39,
+            "Frank Martin",
+            36,
+            0,
+            0
+          ],
+          [
+            40,
+            "Grepl Jiří",
+            42,
+            0,
+            0
+          ],
+          [
+            41,
+            "Brixa Roman",
+            57,
+            0,
+            0
+          ],
+          [
+            42,
+            "Hégrová Martina",
+            44,
+            0,
+            0
+          ],
+          [
+            43,
+            "Strbačka Jan",
+            74,
+            0,
+            0
+          ],
+          [
+            44,
+            "Kalina Karel",
+            49,
+            0,
+            0
+          ],
+          [
+            45,
+            "Juračková Ivana",
+            59,
+            0,
+            0
+          ],
+          [
+            46,
+            "Golka Jiří",
+            43,
+            0,
+            0
+          ],
+          [
+            47,
+            "Kříčka Adam",
+            40,
+            0,
+            0
+          ],
+          [
+            48,
+            "Sirovátka Michal",
+            58,
+            0,
+            0
+          ],
+          [
+            49,
+            "Winklerová Hana",
+            38,
+            0,
+            0
+          ],
+          [
+            50,
+            "Kobza Filip",
+            21,
+            0,
+            0
+          ],
+          [
+            51,
+            "Papež Radovan",
+            53,
+            0,
+            0
+          ],
+          [
+            52,
+            "Papežová Jana",
+            43,
+            0,
+            0
+          ],
+          [
+            53,
+            "Čelechovský David",
+            43,
+            0,
+            0
+          ],
+          [
+            54,
+            "Kopalová Lucie",
+            38,
+            0,
+            0
+          ],
+          [
+            55,
+            "Paulczynski Petr Ing.",
+            80,
+            0,
+            0
+          ]
+        ]
+      },
+      "id": "20261009/vysled/6202/582786/551171.json",
+      "mcmoNazev": "Brno-Jundrov",
+      "obecNazev": "Brno",
+      "param": {
+        "datumvoleb": 20261009,
+        "kodzastup": 582786,
+        "obec_mc": 551171,
+        "okres": 6202,
+        "okres_nuts": 6202,
+        "typ": "VYSL_ZASTUP_MC"
+      },
+      "plne_nazvy_stran": [
+        [
+          1,
+          "Sociální demokracie"
+        ],
+        [
+          2,
+          "Lidovci a Starostové – Brno blíž lidem"
+        ],
+        [
+          3,
+          "ZELENÉ BRNO (Zelení, Žít Brno, SEN 21, LES, Volt, Budoucnost, Kruh)"
+        ],
+        [
+          4,
+          "ANO 2011"
+        ],
+        [
+          5,
+          "Za Lužánky"
+        ],
+        [
+          6,
+          "ODS, TOP 09 a nezávislí"
+        ],
+        [
+          7,
+          "Restart pro Brno"
+        ],
+        [
+          8,
+          "Brnoklidem"
+        ],
+        [
+          9,
+          "Motoristé sobě"
+        ],
+        [
+          10,
+          "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT, sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+        ],
+        [
+          11,
+          "Brno Brňankám a Brňanům! (B3!)"
+        ],
+        [
+          12,
+          "PŘÍSAHA občanské hnutí"
+        ],
+        [
+          13,
+          "BRNO NAPLNO - koalice Svobodní, Trikolora, PRO"
+        ],
+        [
+          14,
+          "Nové Brno"
+        ],
+        [
+          15,
+          "Piráti a Fakt Brno TU!"
+        ],
+        [
+          16,
+          "SPD a nezávislí"
+        ]
+      ],
+      "popis": "Výsledek za městskou část v rámci zastupitelstva obce",
+      "prehled": [
+        55,
+        1,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "vysledky": []
+    }
+  }
+]
