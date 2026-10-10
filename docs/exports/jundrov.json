@@ -618,5 +618,625 @@
       ],
       "zvoleno": false
     }
+  },
+  {
+    "captured": "2026-10-10T20:43:30+00:00",
+    "data": {
+      "dalsiTerminy": [],
+      "dz": 5,
+      "existujePdf": false,
+      "generovano": "2026-10-10T21:38:00",
+      "hlasy": {
+        "1": [
+          [
+            1,
+            "Hanák Miroslav",
+            50,
+            90,
+            8.87,
+            null,
+            null
+          ],
+          [
+            2,
+            "Šimek Miroslav",
+            50,
+            81,
+            7.98,
+            null,
+            null
+          ],
+          [
+            3,
+            "Zapletal Jiří",
+            75,
+            73,
+            7.19,
+            null,
+            null
+          ],
+          [
+            4,
+            "Bartl Jaroslav",
+            74,
+            80,
+            7.88,
+            null,
+            null
+          ],
+          [
+            5,
+            "Zapletalová Jana",
+            68,
+            73,
+            7.19,
+            null,
+            null
+          ],
+          [
+            6,
+            "Matuška Michal",
+            45,
+            73,
+            7.19,
+            null,
+            null
+          ],
+          [
+            7,
+            "Kmentová Zdeňka",
+            76,
+            71,
+            7,
+            null,
+            null
+          ],
+          [
+            8,
+            "Bartoš Jan PaedDr.",
+            77,
+            84,
+            8.28,
+            null,
+            null
+          ],
+          [
+            9,
+            "Košťál Ivo Ing.",
+            54,
+            79,
+            7.79,
+            null,
+            null
+          ],
+          [
+            10,
+            "Chalupová Alena",
+            80,
+            71,
+            7,
+            null,
+            null
+          ],
+          [
+            11,
+            "Janovská Hana",
+            65,
+            72,
+            7.1,
+            null,
+            null
+          ],
+          [
+            12,
+            "Grünová Hana",
+            88,
+            74,
+            7.29,
+            null,
+            null
+          ],
+          [
+            13,
+            "Koudelka Zdeněk Doc. JUDr. Ph.D.",
+            57,
+            93,
+            9.17,
+            null,
+            null
+          ]
+        ],
+        "2": [
+          [
+            1,
+            "Fajnorová Ivana",
+            58,
+            340,
+            7.4,
+            null,
+            null
+          ],
+          [
+            2,
+            "Bém Aleš Ing.",
+            38,
+            310,
+            6.74,
+            null,
+            null
+          ],
+          [
+            3,
+            "Koláčná Irena",
+            54,
+            365,
+            7.94,
+            null,
+            null
+          ],
+          [
+            4,
+            "Hejnová Renata Mgr.",
+            39,
+            325,
+            7.07,
+            null,
+            null
+          ],
+          [
+            5,
+            "Žídková Martina Mgr.",
+            43,
+            301,
+            6.55,
+            null,
+            null
+          ],
+          [
+            6,
+            "Hron Jan",
+            37,
+            303,
+            6.59,
+            null,
+            null
+          ],
+          [
+            7,
+            "Beránek Tomáš",
+            53,
+            319,
+            6.94,
+            null,
+            null
+          ],
+          [
+            8,
+            "Krestová Alena Ing.",
+            50,
+            308,
+            6.7,
+            null,
+            null
+          ],
+          [
+            9,
+            "Dobrovolný Petr Mgr. MgA.",
+            46,
+            297,
+            6.46,
+            null,
+            null
+          ],
+          [
+            10,
+            "Vyskočil Aleš Mgr. Ph.D.",
+            52,
+            305,
+            6.63,
+            null,
+            null
+          ],
+          [
+            11,
+            "Hošek Lubomír MVDr.",
+            68,
+            319,
+            6.94,
+            null,
+            null
+          ],
+          [
+            12,
+            "Šujanová Ludmila",
+            59,
+            286,
+            6.22,
+            null,
+            null
+          ],
+          [
+            13,
+            "Krhovská Hana Mgr.",
+            44,
+            287,
+            6.24,
+            null,
+            null
+          ],
+          [
+            14,
+            "Trubák Jiří Ing.",
+            61,
+            275,
+            5.98,
+            null,
+            null
+          ],
+          [
+            15,
+            "Doležalová Pavlína MgA.",
+            53,
+            254,
+            5.52,
+            null,
+            null
+          ]
+        ],
+        "3": [
+          [
+            1,
+            "Vitula Ondřej Mgr.",
+            32,
+            407,
+            8.41,
+            null,
+            null
+          ],
+          [
+            2,
+            "Chládek Michal Mgr.",
+            31,
+            328,
+            6.77,
+            null,
+            null
+          ],
+          [
+            3,
+            "Staněk Adam Ing.",
+            31,
+            329,
+            6.79,
+            null,
+            null
+          ],
+          [
+            4,
+            "Číhalová Zora",
+            46,
+            320,
+            6.61,
+            null,
+            null
+          ],
+          [
+            5,
+            "Kuba Michal",
+            51,
+            327,
+            6.75,
+            null,
+            null
+          ],
+          [
+            6,
+            "Kšica Michal",
+            40,
+            316,
+            6.53,
+            null,
+            null
+          ],
+          [
+            7,
+            "Trojáček Josef",
+            41,
+            336,
+            6.94,
+            null,
+            null
+          ],
+          [
+            8,
+            "Kroupa Karel",
+            46,
+            322,
+            6.65,
+            null,
+            null
+          ],
+          [
+            9,
+            "Sedláčková Jana",
+            49,
+            317,
+            6.55,
+            null,
+            null
+          ],
+          [
+            10,
+            "Šuška Adam",
+            30,
+            310,
+            6.4,
+            null,
+            null
+          ],
+          [
+            11,
+            "Topinka Matěj",
+            21,
+            313,
+            6.46,
+            null,
+            null
+          ],
+          [
+            12,
+            "Kašpárková Hana Mgr.",
+            57,
+            313,
+            6.46,
+            null,
+            null
+          ],
+          [
+            13,
+            "Skoupý Filip",
+            51,
+            306,
+            6.32,
+            null,
+            null
+          ],
+          [
+            14,
+            "Pokorný Jiří Ing.",
+            44,
+            304,
+            6.28,
+            null,
+            null
+          ],
+          [
+            15,
+            "Staněk Lukáš Ing. arch.",
+            27,
+            291,
+            6.01,
+            null,
+            null
+          ]
+        ],
+        "4": [
+          [
+            1,
+            "Šťastník Ondřej Ing.",
+            54,
+            276,
+            7.11,
+            null,
+            null
+          ],
+          [
+            2,
+            "Hubl Richard Mgr. Ph.D.",
+            47,
+            276,
+            7.11,
+            null,
+            null
+          ],
+          [
+            3,
+            "Lenomar Zbyněk Ing.",
+            51,
+            280,
+            7.22,
+            null,
+            null
+          ],
+          [
+            4,
+            "Franců Lenka Mgr.",
+            36,
+            271,
+            6.98,
+            null,
+            null
+          ],
+          [
+            5,
+            "Loskot Petr Ing.",
+            47,
+            273,
+            7.04,
+            null,
+            null
+          ],
+          [
+            6,
+            "Švecová Šárka Mgr.",
+            45,
+            260,
+            6.7,
+            null,
+            null
+          ],
+          [
+            7,
+            "Loupová Anna",
+            36,
+            257,
+            6.62,
+            null,
+            null
+          ],
+          [
+            8,
+            "Soukup Jan PhDr. Ph.D.",
+            52,
+            259,
+            6.68,
+            null,
+            null
+          ],
+          [
+            9,
+            "Hublová Gabriela Mgr. Ph.D.",
+            45,
+            253,
+            6.52,
+            null,
+            null
+          ],
+          [
+            10,
+            "Fejtková Daniela Ing.",
+            43,
+            255,
+            6.57,
+            null,
+            null
+          ],
+          [
+            11,
+            "Knoll Jaroslav",
+            58,
+            249,
+            6.42,
+            null,
+            null
+          ],
+          [
+            12,
+            "Pivoda Petr Mgr.",
+            44,
+            244,
+            6.29,
+            null,
+            null
+          ],
+          [
+            13,
+            "Tyleček Pavel Ing.",
+            52,
+            260,
+            6.7,
+            null,
+            null
+          ],
+          [
+            14,
+            "Tučková Marie JUDr.",
+            70,
+            235,
+            6.06,
+            null,
+            null
+          ],
+          [
+            15,
+            "Ježková Michaela Mgr.",
+            43,
+            229,
+            5.9,
+            null,
+            null
+          ]
+        ]
+      },
+      "hranice": {},
+      "id": "20261009/vysled/6202/551171.json",
+      "obecNazev": "Brno-Jundrov",
+      "param": {
+        "cobvodu": 1,
+        "datumvoleb": 20261009,
+        "kodzastup": 551171,
+        "okres": 6202,
+        "okres_nuts": 6202,
+        "typ": "VYSL_ZASTUP"
+      },
+      "plne_nazvy_stran": [
+        [
+          1,
+          "SPD a nezávislí kandidáti"
+        ],
+        [
+          2,
+          "Zelená pro Jundrov"
+        ],
+        [
+          3,
+          "Společně pro Jundrov (ODS+nestraníci s podporou TOP 09)"
+        ],
+        [
+          4,
+          "Jundrováci"
+        ]
+      ],
+      "podilyHlasu": {},
+      "popis": "Výsledek za zastupitelstvo obce - průběžný stav",
+      "poradiPodiluHlasu": [],
+      "poradiPodiluLos": false,
+      "prehled": [
+        15,
+        1,
+        4,
+        2,
+        50,
+        1912,
+        1069,
+        55.91,
+        0,
+        1065,
+        1011,
+        94.93,
+        14324
+      ],
+      "vysledky": [
+        [
+          1,
+          "SPD a nezávislí kandidáti",
+          1014,
+          7.08,
+          13
+        ],
+        [
+          2,
+          "Zelená pro Jundrov",
+          4594,
+          32.07,
+          15
+        ],
+        [
+          3,
+          "Společně pro Jundrov (ODS+nestraníci+TOP 09)",
+          4839,
+          33.78,
+          15
+        ],
+        [
+          4,
+          "Jundrováci",
+          3877,
+          27.07,
+          15
+        ]
+      ],
+      "zvoleno": false
+    }
   }
 ]

@@ -2078,5 +2078,135 @@
       ],
       "zvoleny": null
     }
+  },
+  {
+    "captured": "2026-10-10T20:43:30+00:00",
+    "data": {
+      "existujePdf": false,
+      "generovano": "2026-10-10T22:43:00",
+      "id": "20261009/vysled/obvod/60.json",
+      "obvodNazev": "Brno-město",
+      "param": {
+        "datumvoleb": 20261009,
+        "obvod": 60,
+        "typ": "VYSL_OBVOD"
+      },
+      "popis": "Výsledek za senátní obvod",
+      "postupuje": [],
+      "prehled": [
+        [
+          1,
+          123,
+          104,
+          84.55,
+          78821,
+          38408,
+          48.73,
+          12,
+          37765,
+          36801,
+          97.45
+        ]
+      ],
+      "vysledky": [
+        [
+          1,
+          "Papoušek Zdeněk PhDr.",
+          "KDUODSPirTOPFBr",
+          "ODS",
+          "BEZPP",
+          15294,
+          41.55,
+          null,
+          null,
+          false,
+          false,
+          1694,
+          53,
+          99
+        ],
+        [
+          2,
+          "Samková Klára Alžběta JUDr. Ph.D.",
+          "Stačilo!",
+          "Stačilo!",
+          "BEZPP",
+          1120,
+          3.04,
+          null,
+          null,
+          false,
+          false,
+          1298,
+          1298,
+          99
+        ],
+        [
+          3,
+          "Holcnerová Veronika",
+          "Kruh",
+          "Kruh",
+          "Kruh",
+          1475,
+          4,
+          null,
+          null,
+          false,
+          false,
+          1707,
+          1707,
+          1707
+        ],
+        [
+          4,
+          "Štěrba Jaroslav prof. MUDr. Ph.D.",
+          "ANO",
+          "ANO",
+          "BEZPP",
+          7633,
+          20.74,
+          null,
+          null,
+          false,
+          false,
+          768,
+          768,
+          99
+        ],
+        [
+          5,
+          "Zitterbart Karel MUDr. Ph.D.",
+          "STAN",
+          "STAN",
+          "BEZPP",
+          8948,
+          24.31,
+          null,
+          null,
+          false,
+          false,
+          166,
+          166,
+          99
+        ],
+        [
+          6,
+          "Turánek Jaroslav prof. RNDr. CSc., DSc.",
+          "SPD",
+          "SPD",
+          "BEZPP",
+          2331,
+          6.33,
+          null,
+          null,
+          false,
+          false,
+          1114,
+          1114,
+          99
+        ]
+      ],
+      "zvoleny": null
+    }
   }
 ]
